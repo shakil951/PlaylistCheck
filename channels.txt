@@ -1,3 +1,20 @@
 BTV | https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-Somoy TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+Somoy Tv | https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 PTV Sport | https://tvsen5.aynaott.com/PtvSports/index.m3u8
+T Sport | https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+Star News | https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
+Jamuna Tv | https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+G-TV | https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+71 TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+INDEPENDENT | https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+NEWS 24 | https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+ATN NEWS | https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+BanglaVision | https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+N TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+Channel I | https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8
+Channel 9 | https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
+SA TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=3224800.m3u8
+Dippto TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=2202800.m3u8
+Channel 24 | https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
+MASSRANGA | https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
+Islamic TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
