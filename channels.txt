@@ -1,3 +1,2 @@
 BTV | https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 Somoy TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-PTV Sport | https://tvsen5.aynaott.com/PtvSports/index.m3u8
