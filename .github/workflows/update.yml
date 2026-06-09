@@ -1,0 +1,27 @@
+name: Update Playlist
+
+on:
+  push:
+    paths:
+      - channels.txt
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+
+      - name: Generate Playlist
+        run: python generate.py
+
+      - name: Commit Changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add combined_playlist.m3u
+          git commit -m "Auto update playlist" || exit 0
+          git push
