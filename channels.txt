@@ -19,3 +19,4 @@ MASSRANGA | https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_en
 Islamic TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
 Bangla Plus | https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 Enter Ten | https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+Zee 24 Ghanta | https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
