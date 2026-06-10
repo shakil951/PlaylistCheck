@@ -1,4 +1,5 @@
 BTV | https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+Bhan | https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282026%29/Bhanupriya-Bhooter-Hotel-2026/Bhanupriya-Bhooter-Hotel-2026-Bengali-1080p-WEBDL_reencoded.mp4
 Somoy Tv | https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 G Series Drama | https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 T Sports | https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
