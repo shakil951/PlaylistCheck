@@ -1,5 +1,4 @@
 BTV | https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-Bhan | https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282026%29/Bhanupriya-Bhooter-Hotel-2026/Bhanupriya-Bhooter-Hotel-2026-Bengali-1080p-WEBDL_reencoded.mp4
 Somoy Tv | https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 G Series Drama | https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 T Sports | https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
@@ -21,3 +20,4 @@ Islamic TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_e
 Bangla Plus | https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 Enter Ten | https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 Zee 24 Ghanta | https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+Banolota | https://backend.roarzone.net/stream?path=Movies%2FBangladeshi+Movies%2FBonolota+Express+%282026%29%2FBonolota+Express+%282026%29+WEB-DL+%5BBengali%5D+RAW+1080p+ESub.mkv&signature=eyJkYXRhIjoiZXlKbGVIQnBjbVZCZENJNk1UYzRNVEV3TkRNM01Td2lhWFJsYlVsa0lqb2lNVGt5TnpjNElpd2liV1ZrYVdGSlpDSTZJbTFsWkdsaGMyOTFjbU5sWHpFNU1qYzNPQ0o5Iiwic2lnbmF0dXJlIjoiNzIreVV6TzRUUVNlQWo1d1dCcitUWVZFSE9ITTZxak5rOUpRUHZwRVdLUT0ifQ==
