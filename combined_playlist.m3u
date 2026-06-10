@@ -3,9 +3,6 @@
 #EXTINF:-1,BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1,Bhan
-https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282026%29/Bhanupriya-Bhooter-Hotel-2026/Bhanupriya-Bhooter-Hotel-2026-Bengali-1080p-WEBDL_reencoded.mp4
-
 #EXTINF:-1,Somoy Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
@@ -68,4 +65,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 #EXTINF:-1,Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1,Banolota
+https://backend.roarzone.net/stream?path=Movies%2FBangladeshi+Movies%2FBonolota+Express+%282026%29%2FBonolota+Express+%282026%29+WEB-DL+%5BBengali%5D+RAW+1080p+ESub.mkv&signature=eyJkYXRhIjoiZXlKbGVIQnBjbVZCZENJNk1UYzRNVEV3TkRNM01Td2lhWFJsYlVsa0lqb2lNVGt5TnpjNElpd2liV1ZrYVdGSlpDSTZJbTFsWkdsaGMyOTFjbU5sWHpFNU1qYzNPQ0o5Iiwic2lnbmF0dXJlIjoiNzIreVV6TzRUUVNlQWo1d1dCcitUWVZFSE9ITTZxak5rOUpRUHZwRVdLUT0ifQ==
 
