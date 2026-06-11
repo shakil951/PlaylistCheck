@@ -66,6 +66,9 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1,Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
+#EXTINF:-1,Ban Vs Aus
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1781240008~acl=%2f*~data=hdntl~hmac=568fe1fadbe9e047fc233a4d8052422954d7efe62f97be1dc181f5b14d73d9e5/level_0.m3u8
+
 #EXTINF:-1,Premi-2004
 https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282004%29/Premi-2004/Premi.WEB-DL_1920x1080_ftpbd_reencoded.mp4
 
