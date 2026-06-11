@@ -18,9 +18,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 #EXTINF:-1,Jamuna Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1,G-TV
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1,71 TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
@@ -54,6 +51,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-vid
 #EXTINF:-1,MASSRANGA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 
+#EXTINF:-1,G-TV
+https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1,Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
 
@@ -65,9 +65,6 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 #EXTINF:-1,Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
-
-#EXTINF:-1,Ban Vs Aus
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1781240008~acl=%2f*~data=hdntl~hmac=568fe1fadbe9e047fc233a4d8052422954d7efe62f97be1dc181f5b14d73d9e5/level_0.m3u8
 
 #EXTINF:-1,Premi-2004
 https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282004%29/Premi-2004/Premi.WEB-DL_1920x1080_ftpbd_reencoded.mp4
