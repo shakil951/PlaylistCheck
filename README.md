@@ -18,4 +18,4 @@
 সবচেয়ে ভালো অভিজ্ঞতার জন্য সরাসরি নিচের অনলাইন লিঙ্কটি কপি করে আপনার প্লেয়ারের **M3U URL** বক্সে পেস্ট করুন। এর ফলে স্ক্রিপ্ট যখনই প্লেলিস্ট আপডেট করবে, আপনার প্লেয়ারেও চ্যানেলগুলো স্বয়ংক্রিয়ভাবে আপডেট হয়ে যাবে।
 
 ```text
-[https://raw.githubusercontent.com/shakil951/PlaylistCheck/main/combined_playlist.m3u](https://raw.githubusercontent.com/shakil951/PlaylistCheck/main/combined_playlist.m3u)
+[https://raw.githubusercontent.com/shakil951/PlaylistCheck/refs/heads/main/combined_playlist.m3u
