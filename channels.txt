@@ -20,6 +20,7 @@ Islamic TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_e
 Bangla Plus | https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 Enter Ten | https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 Zee 24 Ghanta | https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+Ban Vs Aus | https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/hdntl=exp=1781240008~acl=%2f*~data=hdntl~hmac=568fe1fadbe9e047fc233a4d8052422954d7efe62f97be1dc181f5b14d73d9e5/level_0.m3u8
 Premi-2004 | https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282004%29/Premi-2004/Premi.WEB-DL_1920x1080_ftpbd_reencoded.mp4
 I-Love-You-2007 | https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282007%29/I-Love-You-2007/I.Love.You.2007.1080p.AMZN.WEB-DL.H.264_reencoded.mp4
 Mon-Mane-Na | https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282008%29/Mon-Mane-Na-%282008%29-1080p/Mon.Mane.Na.2008.1080p.WEB-DL.DDP2.0.H.264_reencoded.mp4
