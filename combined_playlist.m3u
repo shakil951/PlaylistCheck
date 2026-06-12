@@ -3,14 +3,17 @@
 #EXTINF:-1,BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1,Somoy Tv
+#EXTINF:-1,Channel One
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1,G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1,T Sports
-https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+
+#EXTINF:-1,T Sports 2
+http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 
 #EXTINF:-1,Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
@@ -66,15 +69,6 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1,Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
-#EXTINF:-1,Premi-2004
-https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282004%29/Premi-2004/Premi.WEB-DL_1920x1080_ftpbd_reencoded.mp4
-
-#EXTINF:-1,I-Love-You-2007
-https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282007%29/I-Love-You-2007/I.Love.You.2007.1080p.AMZN.WEB-DL.H.264_reencoded.mp4
-
-#EXTINF:-1,Mon-Mane-Na
-https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282008%29/Mon-Mane-Na-%282008%29-1080p/Mon.Mane.Na.2008.1080p.WEB-DL.DDP2.0.H.264_reencoded.mp4
-
-#EXTINF:-1,100%-Love
-https://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata-Bangla-Movies/%282012%29/100%25-Love-%282012%29-720p/100%25love_reencoded.mp4
+#EXTINF:-1,Bein Sports
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
