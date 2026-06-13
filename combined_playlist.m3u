@@ -72,3 +72,75 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1,PTV Sports
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
+#EXTINF:-1,T Sports
+http://188.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star Sports 1
+http://188.195.239.50:8095/starSports1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star Sports 2
+http://188.195.239.50:8095/starSports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Channel 24
+http://188.195.239.50:8095/channel24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ATN News
+http://188.195.239.50:8095/atnNews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Ekattor TV
+http://188.195.239.50:8095/ekattorTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Jamuna TV
+http://188.195.239.50:8095/jamunaTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ATN Bangla
+http://188.195.239.50:8095/atnBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Banglavision
+http://188.195.239.50:8095/banglaVision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star Select 1
+http://188.195.239.50:8095/star...sSelect1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star Select 2
+http://188.195.239.50:8095/star...sSelect2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sony Ten Sports 3
+http://188.195.239.50:8095/sonyTenSports3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sony Ten Sports 5
+http://188.195.239.50:8095/sonyTenSports5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,PTV
+http://188.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Channel i
+http://188.195.239.50:8095/channelI/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,NTV
+http://188.195.239.50:8095/ntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Deepto TV
+http://188.195.239.50:8095/deepto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,BTV
+http://188.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star Jalsha
+http://188.195.239.50:8095/starJalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Jalsha Movies
+http://188.195.239.50:8095/jalshaMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Zee Bangla
+http://188.195.239.50:8095/zeeBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Colors Cinema
+http://188.195.239.50:8095/colo...aChinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sony Aath
+http://188.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sangeet Bangla
+http://188.195.239.50:8095/sangeetBangla/tracks-v1a1/mono.m3u8
+
