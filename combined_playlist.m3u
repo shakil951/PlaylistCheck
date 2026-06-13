@@ -9,12 +9,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1,G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1,T Sports
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-
-#EXTINF:-1,T Sports 2
-http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
-
 #EXTINF:-1,Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 
