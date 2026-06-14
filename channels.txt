@@ -22,3 +22,4 @@ G-TV | https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 Fifa Somoy TV | https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 Fifa 4K | http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
 Bein Sports | https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+Fifa | https://cdn-tt.pages.dev/ch1.m3u8|cookie=Edge-Cache-Cookie="Expires=1781541786~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AaPNU3eB0NVnF0OJkLA0hu0W9FGgKwL5C6rWWudB7WF2MEOxwhJgg_oKBROCqepglgOjz-5sqDLEI2rcs977z6dEVsgF"
