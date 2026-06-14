@@ -14,11 +14,14 @@ SA TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=11
 Dippto TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=2202800.m3u8
 Channel 24 | https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
 MASSRANGA | https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
-G-TV | https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 Islamic TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
 Bangla Plus | https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 Enter Ten | https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 Zee 24 Ghanta | https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+G-TV | https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+Fifa Somoy TV | https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+Fifa Tampad | https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_1.m3u8
+Ban Vs Aud ODI | https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/level_0.m3u8
 Bein Sports | https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 Caze Tv | https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 PTV Sports | https://tvsen5.aynaott.com/PtvSports/index.m3u8
