@@ -21,23 +21,14 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1,INDEPENDENT
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1,NEWS 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-
 #EXTINF:-1,ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-
-#EXTINF:-1,ATN Bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1,BanglaVision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1,NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-
-#EXTINF:-1,News18 Bangla
-https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1,Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
@@ -63,35 +54,26 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-vid
 #EXTINF:-1,Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
 
-#EXTINF:-1,Star Jalsha HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
-
-#EXTINF:-1,Zee Bangla
-http://103.182.170.32:8888/play/a048
-
-#EXTINF:-1,Zee Bangla HD
-http://103.161.153.165:8000/play/zeebnhd/index.m3u8
-
-#EXTINF:-1,Colors Bangla
-http://103.229.254.25:7001/play/a076/index.m3u8
-
-#EXTINF:-1,Sun Bangla HD
-http://103.161.153.165:8000/play/a03k/index.m3u8
-
 #EXTINF:-1,Bangla Movies
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-#EXTINF:-1,Jalsha Movies
-http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY AATH
+http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Bangla Plus
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1,COLOR BANGLA CHINEMA HD
+http://198.195.239.50:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Enter Ten
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1,Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1,News18 Bangla
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1,Fifa BTV
+http://198.195.239.50:8095/sonyMax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Fifa Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
@@ -105,15 +87,9 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1,FOX
 http://84.17.50.102/fox/index.m3u8
 
-#EXTINF:-1,Fifa
-http://172.31.235.10:8080/hls/1-btv/0_1/index.m3u8?tkn=55672317
-
-#EXTINF:-1,Fifa 2
-http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Fifa 3
+#EXTINF:-1,T Sports HD
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Fifa 4 4k
+#EXTINF:-1,Bein 5 4k
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
