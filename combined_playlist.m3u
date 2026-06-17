@@ -87,3 +87,6 @@ http://172.27.27.3:801/16_SonySAB/index.m3u8
 #EXTINF:-1,Bein 5 4k Fast Server
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
+#EXTINF:-1,Aus Vs Ban T20
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/hdntl=exp=1781769745~acl=%2f*~data=hdntl~hmac=d9b96339878e96c9c59d4fb7886d2e4e7076343427725ac419dd4440ea9e4bae/level_2.m3u8
+
