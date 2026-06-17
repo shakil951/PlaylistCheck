@@ -28,4 +28,3 @@ T Sports HD | http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 T Sports HD 2 | http://172.27.27.3:801/16_SonySAB/index.m3u8
 Bein 5 4k Fast Server | http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 Tapmad | https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/hdntl=exp=1781769745~acl=%2f*~data=hdntl~hmac=d9b96339878e96c9c59d4fb7886d2e4e7076343427725ac419dd4440ea9e4bae/level_2.m3u8
-Ins Vs Afg | https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/89iorldhfn/out/v1/6ae5d01f66554d469c7c734a3e7cd514/cenc_video_4_0_17012.mp4?m=1781424273
