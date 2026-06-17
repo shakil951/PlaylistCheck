@@ -18,17 +18,12 @@ MASSRANGA | https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_en
 Islamic TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
 Bangla Movies | https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 SONY AATH | http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
-COLOR BANGLA CHINEMA HD | http://198.195.239.50:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
+Star Sport 1 | http://198.195.239.50:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 Enter Ten | https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 Zee 24 Ghanta | https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 News18 Bangla | https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 Fifa BTV | http://198.195.239.50:8095/sonyMax/tracks-v1a1/mono.m3u8
 Fifa Somoy TV | https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-D Sports | https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-Bein Sports | https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-FOX | http://84.17.50.102/fox/index.m3u8
 T Sports HD | http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 T Sports HD 2 | http://172.27.27.3:801/16_SonySAB/index.m3u8
-Bein 5 4k | http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
-Toffee Fifa | https://toffee-seg.smartdev.workers.dev/manifest?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026-3%2F0%2Fmaster_2000.m3u8
-Fifa Check | http://46.101.169.21/ch299/index.m3u8
+Bein 5 4k Fast Server | http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
