@@ -30,5 +30,5 @@ FOX | http://84.17.50.102/fox/index.m3u8
 T Sports HD | http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 T Sports HD 2 | http://172.27.27.3:801/16_SonySAB/index.m3u8
 Bein 5 4k | http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
-Toffee Fifa | https://toffee-seg.smartdev.workers.dev/manifest?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026-3%2F0%2Fmaster_2000.m3u8&cookie=%22Expires%3D1781743302~_GO%3DGenerated~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DAduQTZ-IBJK3awEVSUXpj_uwlxEE0LuF5wxPzQDy_iFSBN_m9GiueLyajyncXRt99CvWsh_jcBWsp2svsdHAYujNwAUK%22
+Toffee Fifa | https://toffee-seg.smartdev.workers.dev/manifest?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026-3%2F0%2Fmaster_2000.m3u8
 Fifa Check | http://46.101.169.21/ch299/index.m3u8
