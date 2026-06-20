@@ -17,6 +17,8 @@ Channel 24 | https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_e
 MASSRANGA | https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 Bangla Movies | https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 Enter Ten | https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+T Sports | http://10.252.30.6:8082/hls/mystream.m3u8?token=1781963817
+Somoy TV | http://10.252.30.6:8082/live-proxy/http://11.11.11.12:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=fa136305bf72f5d3f425b365c6cedbf995e7feb3-dd8d8c6f0bbc099abb691b5f9e8a8761-1781973063-1781962263
 Zee 24 Ghanta | https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 News18 Bangla | https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 Fifa Somoy TV | https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
@@ -28,17 +30,8 @@ DBC News | https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 News 24 | https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 Makkah | https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 SRK TV | https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-Zee Bangla | https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_bangla&e=.m3u8
-Sony Aath | https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8
-Discovery | https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_sd&e=.m3u8
-SONY SPORTS TEN 1 HD | https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_sports_1_hd&e=.m3u8
 Zee Bangla Sonar for FIFA World Cup | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-Zee Bangla | https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_bangla&e=.m3u8
-Sony Aath | https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8
-Discovery | https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_sd&e=.m3u8
-SONY SPORTS TEN 1 HD | https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_sports_1_hd&e=.m3u8
-SONY SPORTS TEN 2 HD | https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_sports_2_hd&e=.m3u8
-SONY SPORTS TEN 5 HD | https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_sports_5_hd&e=.m3u8
+
 SONY TEN Cricket | https://mflixott.com/tv/toffee-by-maruf/live.php?id=ten_cricket&e=.m3u8
 Cartoon Network HD | https://mflixott.com/tv/toffee-by-maruf/live.php?id=cartoon_network_hd&e=.m3u8
 Cartoon Network | https://mflixott.com/tv/toffee-by-maruf/live.php?id=cartoon_network_sd&e=.m3u8
