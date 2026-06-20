@@ -63,27 +63,6 @@ http://10.252.30.6:8082/hls/mystream.m3u8?token=1781963817
 #EXTINF:-1,Somoy TV
 http://10.252.30.6:8082/live-proxy/http://11.11.11.12:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=fa136305bf72f5d3f425b365c6cedbf995e7feb3-dd8d8c6f0bbc099abb691b5f9e8a8761-1781973063-1781962263
 
-#EXTINF:-1,Zee 24 Ghanta
-https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
-
-#EXTINF:-1,News18 Bangla
-https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-
-#EXTINF:-1,Fifa Somoy TV
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
-#EXTINF:-1,T Sports HD
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,T Sports HD 2
-http://172.27.27.3:801/16_SonySAB/index.m3u8
-
-#EXTINF:-1,Bein 5 4k Fast Server
-http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
-
-#EXTINF:-1,Desh TV
-https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
-
 #EXTINF:-1,DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
@@ -110,4 +89,25 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1,Mohona TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8
+
+#EXTINF:-1,Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1,Desh TV
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+
+#EXTINF:-1,News18 Bangla
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1,Fifa Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1,T Sports HD
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,T Sports HD 2
+http://172.27.27.3:801/16_SonySAB/index.m3u8
+
+#EXTINF:-1,Bein 5 4k Fast Server
+http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
