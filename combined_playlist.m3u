@@ -111,3 +111,6 @@ http://172.27.27.3:801/16_SonySAB/index.m3u8
 #EXTINF:-1,Bein 5 4k Fast Server
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
+#EXTINF:-1,Toffee
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782103892~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ8C0PzucqnCy2vMFoZSsm7PgSD5B6iDzGC2DmiTOI1nL9Xbd9my4aIBH5ethyWuBb-Umm-xTt-LeZATeTNhicgN
+
