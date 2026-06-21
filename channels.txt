@@ -36,3 +36,4 @@ T Sports HD 2 | http://172.27.27.3:801/16_SonySAB/index.m3u8
 Fifa Arabic | https://vfdbdfbd.pages.dev/1782026971/fcaa2905438e4b498cdd74e6fc7e694c/7QCc9hBVg6cq70vfKVblq98-vd3wfOGIbuEtxtYtbOY/beinsportsmax2-sa.m3u8
 Toffee Fifa | https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782103892~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ8C0PzucqnCy2vMFoZSsm7PgSD5B6iDzGC2DmiTOI1nL9Xbd9my4aIBH5ethyWuBb-Umm-xTt-LeZATeTNhicgN
 Ban Vs Aus Toffee | https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/0/master_4000.m3u8?hdntl=Expires=1782108634~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ-jsICh2nL6yx0FczC2UDz7oPtzZUOhUMMEWmuMIPsQYXb9i63pgWatzjodpvivhxZtjzaJyoaebwgL0PibN1sA
+Ban Vs Aus Tapmad | https://seriealeague.akamaized.net/hls/live/2107107/PSLE_tapmad2026-Backup/level_0.m3u8
