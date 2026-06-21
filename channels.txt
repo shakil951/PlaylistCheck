@@ -9,7 +9,6 @@ ATN NEWS | https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 BanglaVision | https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 NTV | https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 Channel I | https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-Ekushey TV | http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 Channel 9 | https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
 SA TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=3224800.m3u8
 Dippto TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=2202800.m3u8
@@ -17,6 +16,7 @@ Channel 24 | https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_e
 MASSRANGA | https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 Bangla Movies | https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 Enter Ten | https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+Ekushey TV | http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 T Sports | http://10.252.30.6:8082/hls/mystream.m3u8?token=1781963817
 Somoy TV | http://10.252.30.6:8082/live-proxy/http://11.11.11.12:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=fa136305bf72f5d3f425b365c6cedbf995e7feb3-dd8d8c6f0bbc099abb691b5f9e8a8761-1781973063-1781962263
 DBC News | https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
@@ -31,11 +31,8 @@ Mohona TV | https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NT
 Zee 24 Ghanta | https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 Desh TV | https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 News18 Bangla | https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-Fifa Somoy TV | https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 T Sports HD | http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 T Sports HD 2 | http://172.27.27.3:801/16_SonySAB/index.m3u8
-Bein 5 4k Fast Server | http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
-Fifa Arabic| https://vfdbdfbd.pages.dev/1782026971/fcaa2905438e4b498cdd74e6fc7e694c/7QCc9hBVg6cq70vfKVblq98-vd3wfOGIbuEtxtYtbOY/beinsportsmax2-sa.m3u8
-Toffee | https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782103892~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ8C0PzucqnCy2vMFoZSsm7PgSD5B6iDzGC2DmiTOI1nL9Xbd9my4aIBH5ethyWuBb-Umm-xTt-LeZATeTNhicgN
-Fifa FS1 | https://vfdbdfbd.pages.dev/1782026820/a53f9e05f06e40ac8e5f9587b1635a97/gpxt_CNcZUFERy55M1NK_IW3esDPaysyi2lBCIbszZU/us-list/0c6964d26bcd450cb7d8c8af10b9da20/https%3A%2F%2Fdynaman-nv-4.slg.dishtech.org%2Fmanifest%2F560%2Fwidevine%2Faudio%2FWC40rciDQVedommfIK3C2w%2F1782020602%2F28%2Fp-cdn4-811-cg14-linear-cbd46b77.movetv.com%2Fstereo%2F192.m3u8%3Flocation_zip%3Dsling?dvrWindow=16
-Fifa | https://tahmidx.rezvionecuptea88.workers.dev/
+Fifa Arabic | https://vfdbdfbd.pages.dev/1782026971/fcaa2905438e4b498cdd74e6fc7e694c/7QCc9hBVg6cq70vfKVblq98-vd3wfOGIbuEtxtYtbOY/beinsportsmax2-sa.m3u8
+Toffee Fifa | https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782103892~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ8C0PzucqnCy2vMFoZSsm7PgSD5B6iDzGC2DmiTOI1nL9Xbd9my4aIBH5ethyWuBb-Umm-xTt-LeZATeTNhicgN
+Ban Vs Aus Toffee | https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/0/master_4000.m3u8?hdntl=Expires=1782108634~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ-jsICh2nL6yx0FczC2UDz7oPtzZUOhUMMEWmuMIPsQYXb9i63pgWatzjodpvivhxZtjzaJyoaebwgL0PibN1sA
