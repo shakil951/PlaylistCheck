@@ -57,12 +57,6 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1,Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1,T Sports
-http://10.252.30.6:8082/hls/mystream.m3u8?token=1781963817
-
-#EXTINF:-1,Somoy TV
-http://10.252.30.6:8082/live-proxy/http://11.11.11.12:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=fa136305bf72f5d3f425b365c6cedbf995e7feb3-dd8d8c6f0bbc099abb691b5f9e8a8761-1781973063-1781962263
-
 #EXTINF:-1,DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
