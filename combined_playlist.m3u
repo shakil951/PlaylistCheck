@@ -108,3 +108,6 @@ http://10.252.30.6:8082/live-proxy/http://44.44.44.6/stream/hls/stream1.m3u8
 #EXTINF:-1,FIFA HOME 2
 http://10.252.30.6:8082/live-proxy/http://11.11.11.12:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=0dccd8c31450cecddfcb686ca96925d04cb8e86a-7c5edf3c3a6b6eac99e8efb2ba4dd2a1-1782154863-1782144063
 
+#EXTINF:-1,Fifa Check
+https://tfwy1gr4nhct1gwzdrctufaauqc3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=2f488b4b71f89ba07bc45c96-178214721435781&wsIPSercert=856d36c62396c5fe75d43d70ef6ff555&wsBindIP=2&wsserid=1168239731562485911
+
