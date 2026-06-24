@@ -97,11 +97,14 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Toffee Fifa
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782329471~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwveZHILkN1HRHURQAcG_GDm3JnPe4JcVO8lbJW1mEBpPM5D0sYLIXCAk-F0ICIrSaWJ0fSUlMgNWhb07CgsYbj4I
+https://sm-monirul.top/tof/live/tunvsjap/index.m3u8?nocache=1782273143701
 
 #EXTINF:-1,FIFA HOME
 http://10.252.30.6:8082/live-proxy/http://44.44.44.6/stream/hls/stream1.m3u8
 
 #EXTINF:-1,FIFA 4K
 https://inproviszon.st/tsn4k.m3u8
+
+#EXTINF:-1,FIFA CDN
+https://tahmidx.dotreddigital.workers.dev/
 
