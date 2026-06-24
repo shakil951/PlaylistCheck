@@ -30,5 +30,6 @@ Zee 24 Ghanta | https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 Desh TV | https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 News18 Bangla | https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 T Sports HD | http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-Toffee Fifa | https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782287049~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwveUIquATxp7U9qRWDundJ4tY6Wt81zwiUKg_M6cokQk8OcgXmtq_uOMonQKGDQFPN5DepdypBkfFM8grz63CDAP
+Toffee Fifa | https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782329471~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwveZHILkN1HRHURQAcG_GDm3JnPe4JcVO8lbJW1mEBpPM5D0sYLIXCAk-F0ICIrSaWJ0fSUlMgNWhb07CgsYbj4I
 FIFA HOME | http://10.252.30.6:8082/live-proxy/http://44.44.44.6/stream/hls/stream1.m3u8
+FIFA 4K | https://inproviszon.st/tsn4k.m3u8
