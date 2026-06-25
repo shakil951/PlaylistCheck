@@ -21,7 +21,7 @@ DBC News | https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 News 24 | https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 Makkah | https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 SRK TV | https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-Zee Bangla Sonar for FIFA World Cup | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+Zee Bangla Sonar | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 Star Jalsha | https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 Sangeet Bangla | https://cdn-4.pishow.tv/live/1143/master.m3u8
 MY TV | https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
