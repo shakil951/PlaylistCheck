@@ -108,14 +108,17 @@ https://sm-monirul.top/tof/live/toffee4/index.m3u8?nocache=1782146598612
 #EXTINF:-1,FIFA HOME
 http://10.252.30.6:8082/live-proxy/http://44.44.44.6/stream/hls/stream1.m3u8
 
-#EXTINF:-1,FIFA 4K
-https://inproviszon.st/tsn4k.m3u8
+#EXTINF:-1,FIFA FOX
+https://foxy-prox.kaizokutv.me/?url=https://lb.xyzcloud3.xyz/fox4k/index.m3u8
 
 #EXTINF:-1,FIFA CDN
 https://tahmidx.dotreddigital.workers.dev/
 
 #EXTINF:-1,Fifa BIOSCOPE
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_2.m3u8
+
+#EXTINF:-1,Fifa iScreen
+https://sm-monirul.top/ott/iscreen/index.m3u8
 
 #EXTINF:-1,Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
