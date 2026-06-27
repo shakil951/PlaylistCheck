@@ -10,7 +10,6 @@ BanglaVision | https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 NTV | https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 Channel I | https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 Channel 9 | https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-SA TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 Dippto TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 Channel 24 | https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 Maasranga TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
@@ -18,74 +17,25 @@ Bangla Movies | https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 Enter Ten | https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 DBC News | https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 News 24 | https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-Makkah | https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+Al Quran | https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 SRK TV | https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-Zee Bangla Sonar | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-Sangeet Bangla | https://cdn-4.pishow.tv/live/1143/master.m3u8
 MY TV | https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
 Mohona TV | https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8
-Zee 24 Ghanta | https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 Desh TV | https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
-News18 Bangla | https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-T Sports HD | http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+Islamic TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+Deshi TV | https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+Green TV | https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+Boishakhi TV | https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+Peace TV Bangla | https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+Travel XP English | https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+PCV | https://padmaonline.duckdns.org:8088/pcv/index.m3u8
+Zee Bangla Sonar | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+Sangeet Bangla | https://cdn-4.pishow.tv/live/1143/master.m3u8
+Gopal Bhar TV | https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+Tom & Jerry TV | https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+AAKASH AATH | https://cdn-4.pishow.tv/live/969/master.m3u8
 Toffee FIFA | https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8
 Toffee FIFA 2 | https://sm-monirul.top/tof/live/toffee4/index.m3u8
 FIFA HOME | http://10.252.30.6:8082/live-proxy/http://44.44.44.6/stream/hls/stream1.m3u8
 FIFA CDN | https://tahmidx.dotreddigital.workers.dev/
 FIFA BIOSCOPE | https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_2.m3u8
-FIFA iScreen | https://sm-monirul.top/ott/iscreen/index.m3u8
-Deshe Bideshe | https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-Islamic TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-Cineedge HD | https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
-Uniques HD | https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
-Superrix HD | https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
-Sports Legends | https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
-Luxel HD | https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
-Kids Stars | https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
-DD Sports | https://cdn-6.pishow.tv/live/13/master.m3u8
-Deshi TV | https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-Green TV | https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-Boishakhi TV | https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-Duronto TV | https://trs1.aynaott.com/duronto/index.m3u8
-TPV Sport | https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-Bein Sports Direct | https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-Sky Sports | https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
-Motor Vision | https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
-Win Sports | https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-Live Quran TV | https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
-Cartoon Network | https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
-Bein Sports 1 | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-Bein Sports Tekrar | https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
-Saudi Quran | https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-Saudi Sunnah | https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-Peace TV Bangla | https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-Travel XP English | https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-Travel XP English NZ | https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-AL EKHBARIA | https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
-QURAN RADIOTV SMC | https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
-Peace TV English | https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-Rongeen TV | https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-AL QAMAR | https://streamer3.premio.link/alqamar/playlist.m3u8
-AL ISTIQAMA | https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-BAHRAIN QURAN | https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-PCV | https://padmaonline.duckdns.org:8088/pcv/index.m3u8
-Amazon SAT | https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-DW News | https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-REAL WILD | https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
-Colors Infinity SD | https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-Motu Patlu | https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-Gopal Bhar TV | https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-Tom & Jerry TV | https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-R Plus Gold | https://cdn-4.pishow.tv/live/1231/1231_1.m3u8
-AAKASH AATH | https://cdn-4.pishow.tv/live/969/master.m3u8
-Mr Bean Animated | https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-Kolkata TV | https://cdn.ottlive.co.in/kolkatatv/index.m3u8
-R Plus News | https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
-Surongo | https://pub-d8f5af7f053343ed8295b16a145f6c1c.r2.dev/siam/[FGBDVibes]Surongo.(2023).480p.mkv
-Action Hollywood Movies | https://amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-Goldmines | https://cdn-2.pishow.tv/live/1459/master.m3u8
-B4U Kadak | https://cdn-2.pishow.tv/live/227/master.m3u8
-YRF Music HD | https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-Goldmines Movies | https://cdn-2.pishow.tv/live/1461/master.m3u8
-B4U Movies | https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
-Hindi Movies | https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
