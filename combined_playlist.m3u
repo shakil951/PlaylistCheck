@@ -45,12 +45,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1,Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1,Bangla Movies
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-
-#EXTINF:-1,Enter Ten
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
 #EXTINF:-1,DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
@@ -87,11 +81,11 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1,Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1,Travel XP English
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bangla Movies
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-#EXTINF:-1,PCV
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
+#EXTINF:-1,Enter Ten
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1,Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
@@ -109,9 +103,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 https://cdn-4.pishow.tv/live/969/master.m3u8
 
 #EXTINF:-1,Toffee FIFA
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8
-
-#EXTINF:-1,Toffee FIFA 2
 https://sm-monirul.top/tof/live/toffee4/index.m3u8
 
 #EXTINF:-1,FIFA HOME
