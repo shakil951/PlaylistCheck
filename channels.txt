@@ -32,7 +32,7 @@ Sangeet Bangla | https://cdn-4.pishow.tv/live/1143/master.m3u8
 Gopal Bhar TV | https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 Tom & Jerry TV | https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 AAKASH AATH | https://cdn-4.pishow.tv/live/969/master.m3u8
-Toffee FIFA | https://sm-monirul.top/tof/live/toffee4/index.m3u8
+Toffee FIFA | https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782691611~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcC8i3CYqhyhkfIvTlglYe1Pbgm-ys0LH3cGPR4lyaLd47xCH5YcKjibJfT_Db9j8sd_OxVH362TxtSwtw5bpsJ
 FIFA HOME | http://10.252.30.6:8082/live-proxy/http://44.44.44.6/stream/hls/stream1.m3u8
-FIFA CDN | https://tahmidx.dotreddigital.workers.dev/
+FIFA CDN | https://nhjjhhjhjjhfjj.pages.dev/1782624523/6441bd48c94d4ac190cca667e1215840/uGl007XtIyeo1tTq9UquA7HDiZEL4RXsDc7Z9evbXk8/tsn1-ca.m3u8
 FIFA BIOSCOPE | https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_2.m3u8
