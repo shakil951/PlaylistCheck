@@ -99,3 +99,6 @@ https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/in
 #EXTINF:-1,T Sports
 https://tv.errorx.net/T-SPORTS-HD-X/index.m3u8?token=5faa822208a4ac2e78bac5f77616ca50067e75c0-9b4bb0d84cf7bb064a67079a7bf753a4-1782761723-1782750923&remote=no_check_ip
 
+#EXTINF:-1,FOX UHD
+https://cdn011.viaplus.site/fox-usa.m3u8
+
