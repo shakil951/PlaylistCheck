@@ -1,4 +1,4 @@
-sBTV | https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+BTV | https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 Channel One | https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 G Series Drama | https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 Star News | https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
