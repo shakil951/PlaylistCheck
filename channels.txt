@@ -28,4 +28,3 @@ Zee Bangla Sonar | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default
 Sangeet Bangla | https://cdn-4.pishow.tv/live/1143/master.m3u8
 Gopal Bhar TV | https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 FIFA BEIN | https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-FIFA iScreen | https://cricxtv.fun/isceen.php?file=https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/tc_sg_1_1080p.m3u8&is_playlist=1&nocache=1782870978519
