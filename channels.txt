@@ -28,7 +28,5 @@ Zee Bangla Sonar | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default
 Sangeet Bangla | https://cdn-4.pishow.tv/live/1143/master.m3u8
 Gopal Bhar TV | https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 FIFA BEIN | https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-FIFA Toffee | https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783450038~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AWIR_5FEL1k8XhKZ-QdEU8KvbgRBeHsZZuSgByWJTM_ZjxBoQmqaMjhFdipZ-6fYNKkoQseE7-EssOkIg9GV9OQdwkgA
 FIFA Bioscope | https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_2.m3u8
-FIFA Fast Server | https://tfxd4gr4uqmtt8y41hcjwghzdrqjpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=d9d52ed32c2c93de7781a883050fd00f&wsABSTime=1783078208%3Freferer%3D&wsSession=74af31aae1241d6f30111bc9-178343852682848&wsIPSercert=6f4fdeaa51b7ea7faf984907dc8a5218&wsBindIP=2&wsserid=1168229685289057415
-Home | http://10.252.30.6:8082/live-proxy/http://11.11.11.12:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=08a95c9b3158f4d89a263fad6b083714347e20ce-3087d33d546f0c93be4440ee8aee6b5c-1783449066-1783438266
+Ban Vs Zim | https://curly-surf-da2d.hasannirob234.workers.dev/https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/level_1.m3u8?referer=&ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Mi%20Box%2FMiTV)%20AppleWebKit%2F537.36%20(KHTML%2C%20Joint)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F90.0.4430.210%20Safari%2F537.36
