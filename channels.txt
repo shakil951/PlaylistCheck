@@ -31,6 +31,7 @@ FIFA BEIN | https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 FIFA Bioscope | https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_2.m3u8
 FIFA FAST | https://curly-surf-da2d.hasannirob234.workers.dev/https://andro.evrenesoglu57.click/checklist/androstreamlivetrt1.m3u8?referer=&ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Mi%20Box%2FMiTV)%20AppleWebKit%2F537.36%20(KHTML%2C%20Joint)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F90.0.4430.210%20Safari%2F537.36
 FIFA Somoy TV | https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+FIFA Arabic | https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460&nocache=1783621926692
 Sony Sports 1 | https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 Sony Sports 2 | https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 Sony Sports 5 | https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
