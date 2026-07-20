@@ -63,9 +63,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1,Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1,Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-
 #EXTINF:-1,Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
@@ -87,24 +84,6 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1,Gopal Bhar TV
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1,FIFA BEIN
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-#EXTINF:-1,FIFA Bioscope
-https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_2.m3u8
-
-#EXTINF:-1,FIFA FAST
-https://tfxl6gr5domt1gc41hctogezdncb1fisg17ufgr.100ycdn.com/live1.streambylivepulse.com/live/channel6/playlist.m3u8?wsSecret=b9af50e7e1f039727390f2bedab8f1e0&wsSession=2372ed4aea3646bc8f8482b8-178414437957749&wsIPSercert=60162574879ef5230e7bc601e358334e&wsBindIP=2&wsserid=1168240905464146513
-
-#EXTINF:-1,FIFA
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_3.m3u8
-
-#EXTINF:-1,FIFA Somoy TV
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
-#EXTINF:-1,FIFA Arabic
-https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460&nocache=1783621926692
-
 #EXTINF:-1,Sony Sports 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
@@ -113,7 +92,4 @@ https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 
 #EXTINF:-1,Sony Sports 5
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
-
-#EXTINF:-1,Ban vs Zim T20
-https://curly-surf-da2d.hasannirob234.workers.dev/https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?referer=&ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Mi%20Box%2FMiTV)%20AppleWebKit%2F537.36%20(KHTML%2C%20Joint)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F90.0.4430.210%20Safari%2F537.36
 
