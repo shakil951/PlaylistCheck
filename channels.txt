@@ -15,17 +15,22 @@ Channel 24 | https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 Maasranga TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 DBC News | https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 News 24 | https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-Al Quran | https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+Somoy TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 SRK TV | https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 Desh TV | https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 Deshi TV | https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 Boishakhi TV | https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 Peace TV Bangla | https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+Star Jalsa HD | https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+Akash Aath | https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 Bangla Movies | https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 Enter Ten | https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 Zee Bangla Sonar | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 Sangeet Bangla | https://cdn-4.pishow.tv/live/1143/master.m3u8
 Gopal Bhar TV | https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+T Sports HD | https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+Star Sports 1 | https://cast-2.torongoplus-pro.workers.dev/STAR_SPORTS_1/tracks-v1a1/mono.m3u8
+Star Sports 2 | https://cast-2.torongoplus-pro.workers.dev/STAR_SPORTS2/tracks-v1a1/mono.m3u8
 Sony Sports 1 | https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 Sony Sports 2 | https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 Sony Sports 5 | https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
