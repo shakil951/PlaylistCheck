@@ -93,12 +93,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,T Sports HD
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Star Sports 1
-https://cast-2.torongoplus-pro.workers.dev/STAR_SPORTS_1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Star Sports 2
-https://cast-2.torongoplus-pro.workers.dev/STAR_SPORTS2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,Sony Sports 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 
