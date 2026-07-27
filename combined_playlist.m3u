@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,BTV
+#EXTINF:-1,BTV Shangshad
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1,BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 
 #EXTINF:-1,Channel One
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
