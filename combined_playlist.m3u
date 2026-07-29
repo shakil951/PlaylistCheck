@@ -105,3 +105,6 @@ https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 #EXTINF:-1,Sony Sports 5
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
+#EXTINF:-1,Discovery HD Test
+https://fslivetv.lovable.app/api/public/stream?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fdiscovery_hd_576%2Fdiscovery_hd_576.m3u8%3Fbitrate%3D1000000%26channel%3Ddiscovery_hd_576%26gp_id%3D&h=eyJjb29raWUiOiJFZGdlLUNhY2hlLUNvb2tpZT1VUkxQcmVmaXg9YUhSMGNITTZMeTlpYkdSamJYQnliMlF0WTJSdUxuUnZabVpsWld4cGRtVXVZMjl0OkV4cGlyZXM9MTc4NTQ2MzIxNDpLZXlOYW1lPXByb2RfbGluZWFyOlNpZ25hdHVyZT11SzI5WldXY2kyZGlxSGwyXzFyR2RuUUYtNE5YS25sYWRDVWpVYnZpQ283aFhENzRzSEVGSUhYNUFzTW9wOUJVWEZZU2V0RzJuLTBaQnF1Tm1TN3pCUSIsIlVzZXItQWdlbnQiOiJva2h0dHAvNS4xLjAifQ%3D%3D
+
