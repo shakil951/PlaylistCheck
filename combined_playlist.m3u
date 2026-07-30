@@ -117,3 +117,6 @@ https://backend.roarzone.net/stream?path=Movies%2FBangladeshi+Movies%2FDomm+%282
 #EXTINF:-1,Roid
 https://backend.roarzone.net/stream?path=Movies%2FBangladeshi+Movies%2FRoid+%282026%29%2FRoid+%282026%29+HDTC+%5BBengali+LiNE%5D+1080p+HC-ESub.mkv&signature=eyJkYXRhIjoiZXlKbGVIQnBjbVZCZENJNk1UYzROVFEwTmpnMU5pd2lhWFJsYlVsa0lqb2lNVGsxTXpRd0lpd2liV1ZrYVdGSlpDSTZJbTFsWkdsaGMyOTFjbU5sWHpFNU5UTTBNQ0o5Iiwic2lnbmF0dXJlIjoid0k0TGZyMjlSV0syQm9DOW5kM0M4REtnTUVwN0w3QUx1OEVrc1hsL3B3bz0ifQ==#t=3158.19686
 
+#EXTINF:-1,Bachelor Point
+https://play.roarzone.net/emby/videos/196423/master.m3u8?DeviceId=3483c02e-a4ef-4977-bafd-6a4aaa6590f4&MediaSourceId=mediasource_196423&StartTimeTicks=100000000&PlaySessionId=5446b65bde8646cb9e932bf880dc58e0&api_key=73f90f0ecaaf465a85ad2659b9ceb496&VideoCodec=h264,av1&AudioCodec=mp3,aac&VideoBitrate=5373000&AudioBitrate=192000&AudioStreamIndex=1&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=False&SubtitleStreamIndexes=-1&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&TranscodeReasons=DirectPlayError#t=10
+
