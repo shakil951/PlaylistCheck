@@ -108,6 +108,3 @@ https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 #EXTINF:-1,A Sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 
-#EXTINF:-1,Bachelor Point
-https://play.roarzone.net/emby/videos/196423/master.m3u8?DeviceId=3483c02e-a4ef-4977-bafd-6a4aaa6590f4&MediaSourceId=mediasource_196423&StartTimeTicks=100000000&PlaySessionId=5446b65bde8646cb9e932bf880dc58e0&api_key=73f90f0ecaaf465a85ad2659b9ceb496&VideoCodec=h264,av1&AudioCodec=mp3,aac&VideoBitrate=5373000&AudioBitrate=192000&AudioStreamIndex=1&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=False&SubtitleStreamIndexes=-1&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&TranscodeReasons=DirectPlayError#t=10
-
