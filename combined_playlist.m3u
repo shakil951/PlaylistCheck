@@ -108,3 +108,6 @@ https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 #EXTINF:-1,A Sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 
+#EXTINF:-1,Test
+https://toffee-app-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftoffee_drama%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1785736841%3AKeyName%3Dprod_linear%3ASignature%3D5GuekPPXzolPd2Jo5YkS5ZioospwYgqfAGGqpXRp5gsbf9zu-iOuBYmvLN8uGXV_ATYHmqHfK_ziahYIciTHCg&secret_key=FS_LIVE_TV_SECRET_2026
+
