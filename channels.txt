@@ -32,4 +32,3 @@ Sony Sports 1 | https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/
 Sony Sports 2 | https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 Sony Sports 5 | https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 A Sports | https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
-Test T | https://toffee-proxy.usergamil15.workers.dev/?url=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Ftoffee_drama%2Fplaylist.m3u8&cookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t%3AExpires%3D1787032816%3AKeyName%3Dprod_linear%3ASignature%3DvVUPaGdLxwZUh9vfFGie2wbhXTegRIgAnlsdF2m9rGQba1oNePms_RJfLY6AclStf8R7DsN42ZxwU7jNi4wYBQ&secret_key=FS_LIVE_TV_SECRET_2026&dummy=.m3u8
