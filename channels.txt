@@ -1,7 +1,6 @@
 BTV | http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 BTV National | https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 G Series Drama | https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-Jamuna TV | https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
 71 TV | http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
 ATN News | https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 BanglaVision | https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
