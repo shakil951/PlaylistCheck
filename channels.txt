@@ -1,3 +1,7 @@
+Asian TV | https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
+ATN Bangla | https://tvsen5.aynaott.com/P3y2URgG7LDe/tracks-v1a1/mono.ts.m3u8
+Bangla Vision | https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8
+Bijoy TV | https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 G Series Drama | https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 Maasranga TV | https://mtv.sunplex.live/MAASRANGA/index.m3u8
 SRK TV | https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
@@ -12,3 +16,6 @@ Enter Ten | https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_72
 Zee Bangla Sonar | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 Sangeet Bangla | https://cdn-4.pishow.tv/live/1143/master.m3u8
 T Sports HD | https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104
+T Sports HD 2 | https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+A Sports | https://playztv-apps.pages.dev/asports/index.m3u8
+Willow | https://playztv-apps.pages.dev/willow/index.m3u8
