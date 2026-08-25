@@ -27,9 +27,6 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1,NRB HD
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 
-#EXTINF:-1,Rajdhani TV
-https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-
 #EXTINF:-1,JonmoBhumi TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
 
@@ -52,9 +49,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 #EXTINF:-1,T Sports HD
-https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1783826412104
-
-#EXTINF:-1,T Sports HD 2
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,A Sports
