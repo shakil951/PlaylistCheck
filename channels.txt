@@ -14,6 +14,6 @@ Bangla Movies | https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 Enter Ten | https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 Zee Bangla Sonar | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 Sangeet Bangla | https://cdn-4.pishow.tv/live/1143/master.m3u8
-T Sports HD | https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+T Sports HD | https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 A Sports | https://playztv-apps.pages.dev/asports/index.m3u8
 Willow | https://playztv-apps.pages.dev/willow/index.m3u8
