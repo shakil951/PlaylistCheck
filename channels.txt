@@ -6,16 +6,10 @@ G Series Drama | https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 Maasranga TV | https://mtv.sunplex.live/MAASRANGA/index.m3u8
 SRK TV | https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 NEWS 21 BANGLA | http://103.190.133.68:1935/news21live/live/playlist.m3u8
-NRB HD | https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-JonmoBhumi TV | https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
-Boishakhi TV | https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 Star Jalsa HD | https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-Bangla Movies | https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-Enter Ten | https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 Zee Bangla Sonar | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 Sangeet Bangla | https://cdn-4.pishow.tv/live/1143/master.m3u8
 T Sports HD | https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 PTV Sports | https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 A Sports | https://playztv-apps.pages.dev/asports/index.m3u8
 Willow | https://playztv-apps.pages.dev/willow/index.m3u8
-
