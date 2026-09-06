@@ -1,3 +1,4 @@
+import os
 import requests
 import datetime
 
@@ -6,7 +7,14 @@ cleaned_lines = []
 playlist_content = ""
 channel_count = 0
 
-print("🔍 Checking channels for dead and duplicate links...\n")
+# গিটহাব থেকে সিগন্যাল নেওয়া হচ্ছে যে কোডটি কীভাবে রান হয়েছে
+event_name = os.environ.get('GITHUB_EVENT_NAME', 'workflow_dispatch')
+check_dead_links = (event_name == 'workflow_dispatch')
+
+if check_dead_links:
+    print("🔍 Manual Run: Checking channels for dead and duplicate links...\n")
+else:
+    print("⚡ Auto Run: Generating playlist instantly without checking dead links...\n")
 
 with open("channels.txt", "r", encoding="utf-8") as f:
     lines = f.readlines()
@@ -30,36 +38,45 @@ for line in lines:
         cleaned_lines.append(line)
         continue
 
-    # ১. ডুপ্লিকেট লিংক চেক
+    # ডুপ্লিকেট লিংক চেক (সবসময় করবে)
     if url in seen_urls:
         print(f"🔄 Duplicate removed: {name}")
         continue
     
-    # ২. ডেড (নষ্ট) লিংক চেক
-    try:
-        # লিংকটি সচল আছে কি না তা চেক করছে
-        r = requests.get(url, timeout=10, stream=True)
-        if r.status_code == 200:
-            seen_urls.add(url)
-            cleaned_lines.append(line) # লিংক ঠিক থাকলে ফাইলে রেখে দিবে
-            
-            # প্লেলিস্টের জন্য টেক্সট তৈরি
-            if len(parts) == 4:
-                playlist_content += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n{url}\n\n'
+    is_alive = True
+    
+    # শুধুমাত্র ম্যানুয়ালি রান করলেই ডেড লিংক চেক করবে
+    if check_dead_links:
+        try:
+            r = requests.get(url, timeout=10, stream=True)
+            if r.status_code != 200:
+                is_alive = False
+                print(f"❌ Dead link removed (Status {r.status_code}): {name}")
             else:
-                playlist_content += f'#EXTINF:-1,{name}\n{url}\n\n'
-            channel_count += 1
-            print(f"✅ Alive: {name}")
+                print(f"✅ Alive: {name}")
+        except Exception as e:
+            is_alive = False
+            print(f"❌ Dead link removed (Timeout/Error): {name}")
+    else:
+        # অটো রানের সময় ধরে নিবে যে লিংকটি সচল আছে
+        print(f"⏩ Added (Skipped check): {name}")
+    
+    # লিংক সচল থাকলে বা চেক স্কিপ করলে প্লেলিস্টে যোগ করবে
+    if is_alive:
+        seen_urls.add(url)
+        cleaned_lines.append(line)
+        
+        if len(parts) == 4:
+            playlist_content += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n{url}\n\n'
         else:
-            print(f"❌ Dead link removed (Status {r.status_code}): {name}")
-    except Exception as e:
-        print(f"❌ Dead link removed (Timeout/Error): {name}")
+            playlist_content += f'#EXTINF:-1,{name}\n{url}\n\n'
+        channel_count += 1
 
-# ৩. পরিষ্কার করা চ্যানেলগুলো আবার channels.txt এ সেভ করা
+# পরিষ্কার করা চ্যানেলগুলো আবার channels.txt এ সেভ করা
 with open("channels.txt", "w", encoding="utf-8") as f:
     f.writelines(cleaned_lines)
 
-# ৪. নতুন প্লেলিস্ট জেনারেট করা
+# নতুন প্লেলিস্ট জেনারেট করা
 now = datetime.datetime.now()
 last_update = now.strftime("%d-%b-%Y %I:%M %p")
 
