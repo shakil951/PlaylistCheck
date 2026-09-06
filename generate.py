@@ -7,8 +7,8 @@ with open("channels.txt", "r", encoding="utf-8") as f:
     for line in f:
         line = line.strip()
         
-        # ফাঁকা লাইনগুলো এড়িয়ে যাবে
-        if not line:
+        # ফাঁকা লাইন অথবা '#' দিয়ে শুরু হওয়া লাইনগুলো (কমেন্ট) এড়িয়ে যাবে
+        if not line or line.startswith("#"):
             continue
 
         parts = [x.strip() for x in line.split("|")]
@@ -32,7 +32,7 @@ with open("channels.txt", "r", encoding="utf-8") as f:
 
 # বর্তমান সময় বের করা হচ্ছে 
 now = datetime.datetime.now()
-last_update = now.strftime("%d-%b-%Y %I:%M %p") # উদাহরণ: 06-Sep-2026 11:09 AM
+last_update = now.strftime("%d-%b-%Y %I:%M %p")
 
 # প্লেলিস্টের হেডার তৈরি (আপনার নাম, চ্যানেল সংখ্যা এবং সময়)
 header = "#EXTM3U\n"
