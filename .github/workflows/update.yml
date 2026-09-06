@@ -1,7 +1,10 @@
-name: Manual Playlist Updater
+name: Playlist Updater
 
 on:
-  workflow_dispatch: # এটি ম্যানুয়ালি রান করার অপশন তৈরি করবে
+  workflow_dispatch: # এটি ম্যানুয়াল রানের জন্য (ডেড লিংক চেক করবে)
+  push:
+    paths:
+      - 'channels.txt' # শুধু txt এডিট করলে অটো রান হবে (ডেড লিংক চেক করবে না)
 
 jobs:
   update-playlist:
@@ -19,12 +22,12 @@ jobs:
         run: pip install requests
 
       - name: Run Script to Check & Update
-        run: python generate.py  # আপনার মেইন পাইথন কোডের নাম দেওয়া হয়েছে
+        run: python generate.py 
 
       - name: Save (Commit) Updated Files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add channels.txt combined_playlist.m3u
-          git commit -m "Auto-removed dead and duplicate links" || exit 0
+          git commit -m "Auto-generated playlist (Cleaned duplicates/dead links)" || exit 0
           git push
