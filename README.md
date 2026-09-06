@@ -22,7 +22,10 @@
 ### 🌐 লাইভ নেটওয়ার্ক URL (সবচেয়ে কার্যকরী)
 সবচেয়ে ভালো অভিজ্ঞতার জন্য সরাসরি নিচের লিংকটি কপি করে আপনার প্লেয়ারের **M3U URL** বা **Playlist Link** বক্সে পেস্ট করুন। এর ফলে প্লেলিস্টে নতুন কোনো চ্যানেল বা লোগো আপডেট করা হলে, আপনার প্লেয়ারেও তা পেয়ে যাবেন।
 
-```text
-[https://raw.githubusercontent.com/shakil951/PlaylistCheck/refs/heads/main/combined_playlist.m3u](https://raw.githubusercontent.com/shakil951/PlaylistCheck/refs/heads/main/combined_playlist.m3u)
 
-Developed with ❤️ by Farabi Ahmed Shakil
+```text
+https://raw.githubusercontent.com/shakil951/PlaylistCheck/refs/heads/main/combined_playlist.m3u
+```
+
+---
+<p align="center"><i>Developed with ❤️ by Farabi Ahmed Shakil</i></p>
