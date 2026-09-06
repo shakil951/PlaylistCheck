@@ -1,37 +1,30 @@
-name: Update Playlist
+name: Manual Playlist Updater
 
 on:
-  push:
-    paths:
-      - channels.txt
-
-permissions:
-  contents: write
+  workflow_dispatch: # এটি ম্যানুয়ালি রান করার অপশন তৈরি করবে
 
 jobs:
-  build:
+  update-playlist:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.x"
+          python-version: '3.x'
 
-      - name: Generate Playlist
-        run: python generate.py
+      - name: Install Dependencies
+        run: pip install requests
 
-      - name: Commit Playlist
+      - name: Run Script to Check & Update
+        run: python generate.py  # আপনার মেইন পাইথন কোডের নাম দেওয়া হয়েছে
+
+      - name: Save (Commit) Updated Files
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-
-          git add combined_playlist.m3u
-
-          if git diff --staged --quiet; then
-            echo "No changes"
-          else
-            git commit -m "Auto update playlist"
-            git push
-          fi
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add channels.txt combined_playlist.m3u
+          git commit -m "Auto-removed dead and duplicate links" || exit 0
+          git push
