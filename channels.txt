@@ -76,6 +76,8 @@ NEWS 21 BANGLA | Bangla Entertainment | https://news21bangla.tv/wp-content/uploa
 # ==========================================
 Star Jalsa HD | Kolkata Bangla | https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/hhzvbd.png | https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
+Jalsha Movies HD | Kolkata Bangla | https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/69/Jalsha_Movies_HD_alt.png | https://footfytv.pro/proxy/direct?url=http://103.165.93.31:8095/jalshaMovies/index.m3u8
+
 Zee Bangla Sonar | Kolkata Bangla | https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 # ==========================================
