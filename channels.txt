@@ -89,7 +89,7 @@ A Sports | Sports | https://a-sports.tv/assets/img/logo/favicon.png | https://tv
 
 # Willow | Sports | https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png | https://playztv-apps.pages.dev/willow/index.m3u8
 
-Bangladesh Vs Singapore | Sports | https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790585430-0-0-5b43fa91edaefde34d3ff10fd12bf612
+Bangladesh Vs Singapore | Sports | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwlhkk9h_qdvHgJm2a9-hW40CQeXZr0M3raCxUPRJIrw&s=10 |  https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790585430-0-0-5b43fa91edaefde34d3ff10fd12bf612
 
 # ==========================================
 #              MOVIES & DRAMA
