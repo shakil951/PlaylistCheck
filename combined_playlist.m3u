@@ -1,7 +1,7 @@
 #EXTM3U
 # Developer: Farabi Ahmed Shakil
-# Last Update: 28-Sep-2026 09:08 AM
-# Total Channels: 35
+# Last Update: 28-Sep-2026 09:10 AM
+# Total Channels: 36
 
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg" group-title="Bangla News",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
@@ -101,6 +101,9 @@ https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/favicon.png" group-title="Sports",A Sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwlhkk9h_qdvHgJm2a9-hW40CQeXZr0M3raCxUPRJIrw&s=10" group-title="Sports",Bangladesh Vs Singapore
+https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790585430-0-0-5b43fa91edaefde34d3ff10fd12bf612
 
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_af0da7926606216768d48d2189e3e12c_playmist_hindi_movie_classic_24.jpg" group-title="Movies",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
