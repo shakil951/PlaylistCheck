@@ -1,7 +1,7 @@
 #EXTM3U
 # Developer: Farabi Ahmed Shakil
-# Last Update: 10-Oct-2026 04:42 AM
-# Total Channels: 134
+# Last Update: 10-Oct-2026 04:46 AM
+# Total Channels: 132
 
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg" group-title="Bangla News",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
@@ -77,12 +77,6 @@ https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Bangla Entertainment",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/hhzvbd.png" group-title="Kolkata Bangla",Star Jalsa HD
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="Kolkata Bangla",Zee Bangla Sonar
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/T SPORTS.png" group-title="Sports",T-SPORTS-HD
 http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8
