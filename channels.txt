@@ -111,30 +111,30 @@ UNITE8.1.HD | Hindi | http://198.195.239.50/img/channels/images__11_.jpg | http:
 # ==========================================
 
 
-BTV | Bangla | http://198.195.239.50/img/channels/BTV.HD.png | http://198.195.239.50:8095/btv/index.m3u8
-BTV.HD | Bangla | http://198.195.239.50/img/channels/BTV.HD.png | http://198.195.239.50:8095/BTV.HD/index.m3u8
+# BTV | Bangla | http://198.195.239.50/img/channels/BTV.HD.png | http://198.195.239.50:8095/btv/index.m3u8
+# BTV.HD | Bangla | http://198.195.239.50/img/channels/BTV.HD.png | http://198.195.239.50:8095/BTV.HD/index.m3u8
 ETV.BANGLA.HD | Bangla | http://198.195.239.50/img/channels/images.jpeg | http://198.195.239.50:8095/ETV.BANGLA.HD/index.m3u8
 DEEPTOTV.HD | Bangla | http://198.195.239.50/img/channels/DEEPTO.png | http://198.195.239.50:8095/DEEPTOTV.HD/index.m3u8
-BOISAKHI.TV.HD | Bangla | http://198.195.239.50/img/channels/boishakhi-tv.jpg | http://198.195.239.50:8095/BOISAKHI.TV.HD/index.m3u8
+# BOISAKHI.TV.HD | Bangla | http://198.195.239.50/img/channels/boishakhi-tv.jpg | http://198.195.239.50:8095/BOISAKHI.TV.HD/index.m3u8
 GAZI.TV.HD | Bangla | http://198.195.239.50/img/channels/images__4_.png | http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8
-MASRANGA.TV.HD | Bangla | http://198.195.239.50/img/channels/images__7_.jpg | http://198.195.239.50:8095/MASRANGA.TV.HD/index.m3u8
-ATN.BANGLA.HD | Bangla | http://198.195.239.50/img/channels/ATN BANGLA.png | http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8
-CHANNEL.I.HD | Bangla | http://198.195.239.50/img/channels/CHANNEL I.png | http://198.195.239.50:8095/CHANNEL.I.HD/index.m3u8
+# MASRANGA.TV.HD | Bangla | http://198.195.239.50/img/channels/images__7_.jpg | http://198.195.239.50:8095/MASRANGA.TV.HD/index.m3u8
+# ATN.BANGLA.HD | Bangla | http://198.195.239.50/img/channels/ATN BANGLA.png | http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8
+# CHANNEL.I.HD | Bangla | http://198.195.239.50/img/channels/CHANNEL I.png | http://198.195.239.50:8095/CHANNEL.I.HD/index.m3u8
 MADANI.TV.HD | Bangla | http://198.195.239.50/img/channels/MADANI TV HD.png | http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8
 PEACE.TV.BANGLA.HD | Bangla | http://198.195.239.50/img/channels/PEACE TV BANGLA.png | http://198.195.239.50:8095/PEACE.TV.BANGLA.HD/index.m3u8
-Lotus.TV.HD | Bangla | http://198.195.239.50/img/channels/LOTUS TV.png | http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8
-DBC.NEWS.HD | News | http://198.195.239.50/img/channels/DBC NEWS.png | http://198.195.239.50:8095/DBC.NEWS.HD/index.m3u8
-EAKHON.TV.HD | News | http://198.195.239.50/img/channels/images.png | http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8
-EKATTOR.TV.HD | News | http://198.195.239.50/img/channels/EKATTOR_TV.png | http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8
+# Lotus.TV.HD | Bangla | http://198.195.239.50/img/channels/LOTUS TV.png | http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8
+# DBC.NEWS.HD | News | http://198.195.239.50/img/channels/DBC NEWS.png | http://198.195.239.50:8095/DBC.NEWS.HD/index.m3u8
+# EAKHON.TV.HD | News | http://198.195.239.50/img/channels/images.png | http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8
+# EKATTOR.TV.HD | News | http://198.195.239.50/img/channels/EKATTOR_TV.png | http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8
 NAGORIK.TV.HD | News | http://198.195.239.50/img/channels/NAGORIK.png | http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8
-JAMUNA.TV | News | http://198.195.239.50/img/channels/JAMUNA TV.png | http://198.195.239.50:8095/JAMUNA.TV/index.m3u8
-INDEPENDENT.TV | News | http://198.195.239.50/img/channels/INDEPENDENT TV.png | http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8
-SOMOY.TV.HD | News | http://198.195.239.50/img/channels/SOMOY TV.png | http://198.195.239.50:8095/SOMOY.TV.HD/index.m3u8
-CHANNEL.24.HD | News | http://198.195.239.50/img/channels/CHANNEL 24.png | http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8
-ALJAZEERA.HD | News | http://198.195.239.50/img/channels/images__7_.png | http://198.195.239.50:8095/ALJAZEERA.HD/index.m3u8
-ATN.NEWS.HD | News | http://198.195.239.50/img/channels/ATN NEWS.png | http://198.195.239.50:8095/ATN.NEWS.HD/index.m3u8
-NEWS.24 | News | http://198.195.239.50/img/channels/images__10_.jpg | http://198.195.239.50:8095/NEWS.24/index.m3u8
-BBC.NEWS | News | http://198.195.239.50/img/channels/BBC NEWS.png | http://198.195.239.50:8095/BBC.NEWS/index.m3u8
+# JAMUNA.TV | News | http://198.195.239.50/img/channels/JAMUNA TV.png | http://198.195.239.50:8095/JAMUNA.TV/index.m3u8
+# INDEPENDENT.TV | News | http://198.195.239.50/img/channels/INDEPENDENT TV.png | http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8
+# SOMOY.TV.HD | News | http://198.195.239.50/img/channels/SOMOY TV.png | http://198.195.239.50:8095/SOMOY.TV.HD/index.m3u8
+# CHANNEL.24.HD | News | http://198.195.239.50/img/channels/CHANNEL 24.png | http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8
+# ALJAZEERA.HD | News | http://198.195.239.50/img/channels/images__7_.png | http://198.195.239.50:8095/ALJAZEERA.HD/index.m3u8
+# ATN.NEWS.HD | News | http://198.195.239.50/img/channels/ATN NEWS.png | http://198.195.239.50:8095/ATN.NEWS.HD/index.m3u8
+# NEWS.24 | News | http://198.195.239.50/img/channels/images__10_.jpg | http://198.195.239.50:8095/NEWS.24/index.m3u8
+# BBC.NEWS | News | http://198.195.239.50/img/channels/BBC NEWS.png | http://198.195.239.50:8095/BBC.NEWS/index.m3u8
 
 STAR JALSHA HD | Indian Bangla | http://198.195.239.50/img/channels/STAR JALSHA HD.png | http://198.195.239.50:8095/starJalsha/index.m3u8
 JALSHA MOVIES HD | Indian Bangla | http://198.195.239.50/img/channels/JALSHA MOVIES HD.png | http://198.195.239.50:8095/jalshaMovies/index.m3u8
