@@ -1,7 +1,7 @@
 #EXTM3U
 # Developer: Farabi Ahmed Shakil
-# Last Update: 10-Oct-2026 04:46 AM
-# Total Channels: 132
+# Last Update: 10-Oct-2026 04:50 AM
+# Total Channels: 114
 
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg" group-title="Bangla News",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
@@ -132,32 +132,14 @@ http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/images__11_.jpg" group-title="Hindi",UNITE8.1.HD
 http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV
-http://198.195.239.50:8095/btv/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangla",BTV.HD
-http://198.195.239.50:8095/BTV.HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/images.jpeg" group-title="Bangla",ETV.BANGLA.HD
 http://198.195.239.50:8095/ETV.BANGLA.HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/DEEPTO.png" group-title="Bangla",DEEPTOTV.HD
 http://198.195.239.50:8095/DEEPTOTV.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/boishakhi-tv.jpg" group-title="Bangla",BOISAKHI.TV.HD
-http://198.195.239.50:8095/BOISAKHI.TV.HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/images__4_.png" group-title="Bangla",GAZI.TV.HD
 http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/images__7_.jpg" group-title="Bangla",MASRANGA.TV.HD
-http://198.195.239.50:8095/MASRANGA.TV.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ATN BANGLA.png" group-title="Bangla",ATN.BANGLA.HD
-http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/CHANNEL I.png" group-title="Bangla",CHANNEL.I.HD
-http://198.195.239.50:8095/CHANNEL.I.HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/MADANI TV HD.png" group-title="Bangla",MADANI.TV.HD
 http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8
@@ -165,44 +147,8 @@ http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/PEACE TV BANGLA.png" group-title="Bangla",PEACE.TV.BANGLA.HD
 http://198.195.239.50:8095/PEACE.TV.BANGLA.HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/LOTUS TV.png" group-title="Bangla",Lotus.TV.HD
-http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/DBC NEWS.png" group-title="News",DBC.NEWS.HD
-http://198.195.239.50:8095/DBC.NEWS.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/images.png" group-title="News",EAKHON.TV.HD
-http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/EKATTOR_TV.png" group-title="News",EKATTOR.TV.HD
-http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/NAGORIK.png" group-title="News",NAGORIK.TV.HD
 http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/JAMUNA TV.png" group-title="News",JAMUNA.TV
-http://198.195.239.50:8095/JAMUNA.TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/INDEPENDENT TV.png" group-title="News",INDEPENDENT.TV
-http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/SOMOY TV.png" group-title="News",SOMOY.TV.HD
-http://198.195.239.50:8095/SOMOY.TV.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/CHANNEL 24.png" group-title="News",CHANNEL.24.HD
-http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/images__7_.png" group-title="News",ALJAZEERA.HD
-http://198.195.239.50:8095/ALJAZEERA.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ATN NEWS.png" group-title="News",ATN.NEWS.HD
-http://198.195.239.50:8095/ATN.NEWS.HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/images__10_.jpg" group-title="News",NEWS.24
-http://198.195.239.50:8095/NEWS.24/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/BBC NEWS.png" group-title="News",BBC.NEWS
-http://198.195.239.50:8095/BBC.NEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/STAR JALSHA HD.png" group-title="Indian Bangla",STAR JALSHA HD
 http://198.195.239.50:8095/starJalsha/index.m3u8
