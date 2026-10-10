@@ -69,8 +69,6 @@ SRK TV | Bangla Entertainment | https://tstatic.akash-go.com/cms-ui/images/custo
 
 # NEWS 21 BANGLA | Bangla Entertainment | https://news21bangla.tv/wp-content/uploads/2025/07/Screenshot_23.png | http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
-SOMOY TV HD | Sports | http://198.195.239.50/img/channels/SOMOY TV.png | http://198.195.239.50:8095/somoyTv/index.m3u8
-
 # ==========================================
 #                 KOLKATA BANGLA
 # ==========================================
@@ -85,27 +83,28 @@ Zee Bangla Sonar | Kolkata Bangla | https://jiotv.catchup.cdn.jio.com/dare_image
 # ==========================================
 # T Sports HD | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg | https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
-PTV Sports | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg | https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
+# PTV Sports | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg | https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 
-A Sports | Sports | https://a-sports.tv/assets/img/logo/favicon.png | https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+# A Sports | Sports | https://a-sports.tv/assets/img/logo/favicon.png | https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
+T-SPORTS-HD | Sports | http://198.195.239.50/img/channels/T SPORTS.png | http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8
+SONY.SPORTS.1HD | Sports | http://198.195.239.50/img/channels/images__6_.jpg | http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8
+SONY.SPORTS2.HD | Sports | http://198.195.239.50/img/channels/SONY SPORTS2 HD.png | http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8
+SONY.SPORTS.3 | Sports | http://198.195.239.50/img/channels/SONY SPORTS3 HD.png | http://198.195.239.50:8095/SONY.SPORTS.3/index.m3u8
+SONY.SPORTS.4 | Sports | http://198.195.239.50/img/channels/SONY SPORTS4 HD.png | http://198.195.239.50:8095/SONY.SPORTS.4/index.m3u8
 SONY-SPORTS.5HD | Sports | http://198.195.239.50/img/channels/SONY SPORTS1 HD.png | http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8
 STAR.SPORTS.SEL.2.HD | Sports | http://198.195.239.50/img/channels/images__1_.jpg | http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/index.m3u8
 STAR.SPORTS-SEL1.HD | Sports | http://198.195.239.50/img/channels/images__2_.jpg | http://198.195.239.50:8095/STAR.SPORTS-SEL1.HD/index.m3u8
 STAR.SPORTS2.HD | Sports | http://198.195.239.50/img/channels/STAR SPORTS2 HD.png | http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8
-SONY.SPORTS2.HD | Sports | http://198.195.239.50/img/channels/SONY SPORTS2 HD.png | http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8
-SONY.SPORTS.3 | Sports | http://198.195.239.50/img/channels/SONY SPORTS3 HD.png | http://198.195.239.50:8095/SONY.SPORTS.3/index.m3u8
 STAR.SPORTS1.HD | Sports | http://198.195.239.50/img/channels/STAR SPORTS1 HD.png | http://198.195.239.50:8095/STAR.SPORTS1.HD/index.m3u8
 STAR-SPORTS.3 | Sports | http://198.195.239.50/img/channels/STAR SPORTS3.png | http://198.195.239.50:8095/STAR-SPORTS.3/index.m3u8
+STAR.SPORTS.4K | Sports | http://198.195.239.50/img/channels/STAR 4K.png | http://198.195.239.50:8095/STAR.SPORTS.4K/index.m3u8
 EUROSPORTS.HD | Sports | http://198.195.239.50/img/channels/EUROSPORTS HD.png | http://198.195.239.50:8095/EUROSPORTS.HD/index.m3u8
-T-SPORTS-HD | Sports | http://198.195.239.50/img/channels/T SPORTS.png | http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8
-SONY.SPORTS.4 | Sports | http://198.195.239.50/img/channels/SONY SPORTS4 HD.png | http://198.195.239.50:8095/SONY.SPORTS.4/index.m3u8
-SONY.SPORTS.1HD | Sports | http://198.195.239.50/img/channels/images__6_.jpg | http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8
-FAST.SPORTS.HD | Sports | http://198.195.239.50/img/channels/FAST SPORTS HD.png | http://198.195.239.50:8095/FAST.SPORTS.HD/index.m3u8
 A.SPORTS.HD | Sports | http://198.195.239.50/img/channels/A SPORTS HD.png | http://198.195.239.50:8095/A.SPORTS.HD/index.m3u8
 PTV-SPORTS-HD | Sports | http://198.195.239.50/img/channels/PTV SPORTS HD.png | http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8
-STAR.SPORTS.4K | Sports | http://198.195.239.50/img/channels/STAR 4K.png | http://198.195.239.50:8095/STAR.SPORTS.4K/index.m3u8
 GOLF.SPORTS | Sports | http://198.195.239.50/img/channels/GOLF SPORTS.png | http://198.195.239.50:8095/GOLF.SPORTS/index.m3u8
+UNITE8.2.HD | Hindi | http://198.195.239.50/img/channels/images__9_.png | http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8
+UNITE8.1.HD | Hindi | http://198.195.239.50/img/channels/images__11_.jpg | http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
 
 # ==========================================
 #            BDIX
@@ -124,7 +123,6 @@ CHANNEL.I.HD | Bangla | http://198.195.239.50/img/channels/CHANNEL I.png | http:
 MADANI.TV.HD | Bangla | http://198.195.239.50/img/channels/MADANI TV HD.png | http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8
 PEACE.TV.BANGLA.HD | Bangla | http://198.195.239.50/img/channels/PEACE TV BANGLA.png | http://198.195.239.50:8095/PEACE.TV.BANGLA.HD/index.m3u8
 Lotus.TV.HD | Bangla | http://198.195.239.50/img/channels/LOTUS TV.png | http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8
-
 DBC.NEWS.HD | News | http://198.195.239.50/img/channels/DBC NEWS.png | http://198.195.239.50:8095/DBC.NEWS.HD/index.m3u8
 EAKHON.TV.HD | News | http://198.195.239.50/img/channels/images.png | http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8
 EKATTOR.TV.HD | News | http://198.195.239.50/img/channels/EKATTOR_TV.png | http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8
@@ -134,9 +132,7 @@ INDEPENDENT.TV | News | http://198.195.239.50/img/channels/INDEPENDENT TV.png | 
 SOMOY.TV.HD | News | http://198.195.239.50/img/channels/SOMOY TV.png | http://198.195.239.50:8095/SOMOY.TV.HD/index.m3u8
 CHANNEL.24.HD | News | http://198.195.239.50/img/channels/CHANNEL 24.png | http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8
 ALJAZEERA.HD | News | http://198.195.239.50/img/channels/images__7_.png | http://198.195.239.50:8095/ALJAZEERA.HD/index.m3u8
-GEO.NEWS.HD | News | http://198.195.239.50/img/channels/GEO NEWS HD.png | http://198.195.239.50:8095/GEO.NEWS.HD/index.m3u8
 ATN.NEWS.HD | News | http://198.195.239.50/img/channels/ATN NEWS.png | http://198.195.239.50:8095/ATN.NEWS.HD/index.m3u8
-DW.NEWS.HD | News | http://198.195.239.50/img/channels/images__8_.png | http://198.195.239.50:8095/DW.NEWS.HD/index.m3u8
 NEWS.24 | News | http://198.195.239.50/img/channels/images__10_.jpg | http://198.195.239.50:8095/NEWS.24/index.m3u8
 BBC.NEWS | News | http://198.195.239.50/img/channels/BBC NEWS.png | http://198.195.239.50:8095/BBC.NEWS/index.m3u8
 
@@ -157,14 +153,6 @@ SONY.AAT | Indian Bangla | http://198.195.239.50/img/channels/SONY AATH.png | ht
 COLORS.BANGLA.CINEMA | Indian Bangla | http://198.195.239.50/img/channels/COLORS BANGLA CINEMA.png | http://198.195.239.50:8095/COLORS.BANGLA.CINEMA/index.m3u8
 ENTER10.BANGLA | Indian Bangla | http://198.195.239.50/img/channels/images__8_.jpg | http://198.195.239.50:8095/ENTER10.BANGLA/index.m3u8
 
-SONY MAX HD | Hindi | http://198.195.239.50/img/channels/SONY MAX HD.png | http://198.195.239.50:8095/sonyMax/index.m3u8
-SONY ENTERTAINMENT HD | Hindi | http://198.195.239.50/img/channels/SONY ENTERTAINMENT HD.png | http://198.195.239.50:8095/sonyEntertainment/index.m3u8STAR GOLD HD | Hindi | http://198.195.239.50/img/channels/STAR GOLD HD.png | http://198.195.239.50:8095/STARGOLD/video.m3u8
-STAR PLUS HD | Hindi | http://198.195.239.50/img/channels/STAR PLUS HD.png | http://198.195.239.50:8095/starPlus/video.m3u8
-STAR MOVIES HD | Hindi | http://198.195.239.50/img/channels/STAR MOVIES HD.png | http://198.195.239.50:8095/STAR_PLUS/video.m3u8
-ZEE TV HD | Hindi | http://198.195.239.50/img/channels/ZEE TV HD.png | http://198.195.239.50:8095/zeeTV/index.m3u8
-ZEE CHINEMA HD | Hindi | http://198.195.239.50/img/channels/ZEE CINEMA HD.png | http://103.151.61.12/Zee_Cinema_HD/video.m3u8
-COLOR HD | Hindi | http://198.195.239.50/img/channels/COLORS HD.png | http://198.195.239.50:8095/colors/index.m3u8
-COLOR CINEPLEX HD | Hindi | http://198.195.239.50/img/channels/COLORS CINEPLEX HD.png | http://198.195.239.50:8095/colorsCineplex/index.m3u8
 COLORS.HD | Hindi | http://198.195.239.50/img/channels/COLORS HD.png | http://198.195.239.50:8095/COLORS.HD/index.m3u8
 ANT.PICTURS.HD | Hindi | http://198.195.239.50/img/channels/images__1_.png | http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8
 ZEE.TV.HD | Hindi | http://198.195.239.50/img/channels/ZEE TV HD.png | http://198.195.239.50:8095/ZEE.TV.HD/index.m3u8
@@ -185,37 +173,25 @@ AND.PRIVE.HD | Hindi | http://198.195.239.50/img/channels/images__3_.jpg | http:
 HUM.MASALA.TV | Hindi | http://198.195.239.50/img/channels/images__9_.jpg | http://198.195.239.50:8095/HUM.MASALA.TV/index.m3u8
 AXN.HD | Hindi | http://198.195.239.50/img/channels/AXN HD.png | http://198.195.239.50:8095/AXN.HD/index.m3u8
 STAR.BHARAT.HD | Hindi | http://198.195.239.50/img/channels/STAR BHARAT HD.png | http://198.195.239.50:8095/STAR.BHARAT.HD/index.m3u8
-UNITE8.2.HD | Hindi | http://198.195.239.50/img/channels/images__9_.png | http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8
-UNITE8.1.HD | Hindi | http://198.195.239.50/img/channels/images__11_.jpg | http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
 
 CARTOON NETWORK HD | Kids | http://198.195.239.50/img/channels/CARTOON NETWORK.png | http://198.195.239.50:8095/cartoonNetwork/index.m3u8
-POGO | Kids | http://198.195.239.50/img/channels/POGO.png | http://198.195.239.50:8095/pogo/index.m3u8
 POGO | Kids | http://198.195.239.50/img/channels/POGO.png | http://198.195.239.50:8095/POGO/index.m3u8
 DURANTA | Kids | http://198.195.239.50/img/channels/DURANTA TV.png | http://198.195.239.50:8095/duranta/index.m3u8
 DURANTA.TV.HD | Kids | http://198.195.239.50/img/channels/DURANTA TV.png | http://198.195.239.50:8095/DURANTA.TV.HD/index.m3u8
-NICK | Kids | http://198.195.239.50/img/channels/NICK.png | http://198.195.239.50:8095/nick/index.m3u8
 NICK | Kids | http://198.195.239.50/img/channels/NICK.png | http://198.195.239.50:8095/NICK/index.m3u8
 NICK JR | Kids | http://198.195.239.50/img/channels/NICK JR.png | http://198.195.239.50:8095/nickJr/index.m3u8
-NICK.JR | Kids | http://198.195.239.50/img/channels/NICK JR.png | http://198.195.239.50:8095/NICK.JR/index.m3u8
 SONIC | Kids | http://198.195.239.50/img/channels/SONIC.png | http://198.195.239.50:8095/sonic/index.m3u8
-SONIC | Kids | http://198.195.239.50/img/channels/SONIC.png | http://198.195.239.50:8095/SONIC/index.m3u8
 SONY YAY | Kids | http://198.195.239.50/img/channels/SONY YAY.png | http://198.195.239.50:8095/sonyYay/index.m3u8
-SONY.YAY | Kids | http://198.195.239.50/img/channels/SONY YAY.png | http://198.195.239.50:8095/SONY.YAY/index.m3u8
-DISCOVERY KIDS HD | Kids | http://198.195.239.50/img/channels/DISCOVERY KIDS.png | http://198.195.239.50:8095/disnepKids/index.m3u8
-CARTON.NETWORK.HD | Kids | http://198.195.239.50/img/channels/images__2_.png | http://198.195.239.50:8095/CARTON.NETWORK.HD/index.m3u8
 HUNGAMA | Kids | http://198.195.239.50/img/channels/HUNGAMA.png | http://198.195.239.50:8095/HUNGAMA/index.m3u8
 ETV.BAL.BHARAT | Kids | http://198.195.239.50/img/channels/BAL BHARAT.png | http://198.195.239.50:8095/ETV.BAL.BHARAT/index.m3u8
 SUPER.HUNGAMA | Kids | http://198.195.239.50/img/channels/SUPER HUNGAMA.png | http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8
 
 DISCOVERY HD | Documentary | http://198.195.239.50/img/channels/DISCOVERY HD.png | http://198.195.239.50:8095/discovery/index.m3u8
-DISCOVERY.HD | Documentary | http://198.195.239.50/img/channels/DISCOVERY HD.png | http://198.195.239.50:8095/DISCOVERY.HD/index.m3u8
 NATIONAL GEOGRAPHIC HD | Documentary | http://198.195.239.50/img/channels/NATGEO HD.png | http://198.195.239.50:8095/nationalGeographic/index.m3u8
 NATGEO.HD | Documentary | http://198.195.239.50/img/channels/NATGEO HD.png | http://198.195.239.50:8095/NATGEO.HD/index.m3u8
 NATGEO.WILD.HD | Documentary | http://198.195.239.50/img/channels/NATGEO WILD HD.png | http://198.195.239.50:8095/NATGEO.WILD.HD/index.m3u8
 ANIMAL PLANET HD | Documentary | http://198.195.239.50/img/channels/ANIMAL PLANET HD.png | http://198.195.239.50:8095/animalPlanet/index.m3u8
-ANIMAL.PLANET.HD | Documentary | http://198.195.239.50/img/channels/ANIMAL PLANET HD.png | http://198.195.239.50:8095/ANIMAL.PLANET.HD/index.m3u8
 TRAVEL XP | Documentary | http://198.195.239.50/img/channels/TRAVEL XP.png | http://198.195.239.50:8095/travelXp/index.m3u8
-TRAVELXP.HD | Documentary | http://198.195.239.50/img/channels/images__6_.png | http://198.195.239.50:8095/TRAVELXP.HD/index.m3u8
 SONY.BBC.EARTH.HD | Documentary | http://198.195.239.50/img/channels/SONY BBC EARTH HD.png | http://198.195.239.50:8095/SONY.BBC.EARTH.HD/index.m3u8
 BBC.Earth.HD | Documentary | http://198.195.239.50/img/channels/BBC EARTH HD.png | http://198.195.239.50:8095/BBC.Earth.HD/index.m3u8
 TLC.HD | Documentary | http://198.195.239.50/img/channels/TLC HD.png | http://198.195.239.50:8095/TLC.HD/index.m3u8
@@ -224,8 +200,6 @@ XPLOR.HD | Documentary | http://198.195.239.50/img/channels/images__5_.jpg | htt
 LOVE.NATURE | Documentary | http://198.195.239.50/img/channels/LOVE NATURE.png | http://198.195.239.50:8095/LOVE.NATURE/index.m3u8
 
 SANGEET BANGLA | Music | http://198.195.239.50/img/channels/SANGEET BANGLA.png | http://198.195.239.50:8095/sangeetBangla/index.m3u8
-SANGEET.BANGLA | Music | http://198.195.239.50/img/channels/SANGEET BANGLA.png | http://198.195.239.50:8095/SANGEET.BANGLA/index.m3u8
-9XM MUSIC | Music | http://198.195.239.50/img/channels/9XM MUSIC.png | http://198.195.239.50:8095/9xm/index.m3u8
 9XM.MUSIC | Music | http://198.195.239.50/img/channels/9XM MUSIC.png | http://198.195.239.50:8095/9XM.MUSIC/index.m3u8
 ZOOM.MUSIC | Music | http://198.195.239.50/img/channels/ZOOM.png | http://198.195.239.50:8095/ZOOM.MUSIC/index.m3u8
 ZING.MUSIC | Music | http://198.195.239.50/img/channels/ZING.png | http://198.195.239.50:8095/ZING.MUSIC/index.m3u8
