@@ -1,6 +1,8 @@
 # ==========================================
 #          BANGLADESH
 # ==========================================
+Farabi TV| Promo | https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp | https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/Person_creating_branding_video_1080p_20261012145302.mp4
+
 ATN News | Bangla News | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg | https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 
 Jamuna TV | Bangla News | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4be60fcb499d59949c222f746ece58f4_playmist_jamuna_tv_400x400.jpg | https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
