@@ -83,7 +83,7 @@ SRK TV | Bangla Entertainment | https://tstatic.akash-go.com/cms-ui/images/custo
 # ==========================================
 #                   SPORTS
 # ==========================================
-T Sports HD | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg | https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+T Sports HD | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg | https://robitv.com/rn/http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 
 PTV Sports | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg | https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 
