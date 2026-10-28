@@ -1,7 +1,7 @@
 #EXTM3U
 # Developer: Farabi Ahmed Shakil
-# Last Update: 26-Oct-2026 10:39 AM
-# Total Channels: 29
+# Last Update: 28-Oct-2026 02:34 PM
+# Total Channels: 30
 
 #EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Promo",Farabi TV
 https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/Person_creating_branding_video_1080p_20261012145302.mp4
@@ -89,4 +89,7 @@ https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/favicon.png" group-title="Sports",A Sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yhw5M0c/20241005-170916.png" group-title="Sports",Star Sports 2 HD
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
