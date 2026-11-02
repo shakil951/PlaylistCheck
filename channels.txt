@@ -74,9 +74,9 @@ SRK TV | Bangla Entertainment | https://tstatic.akash-go.com/cms-ui/images/custo
 # ==========================================
 #                 KOLKATA BANGLA
 # ==========================================
-Star Jalsa HD | Kolkata Bangla | https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+Star Jalsa HD | Kolkata Bangla | https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png | https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
-Jalsha Movies HD | Kolkata Bangla | https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
+Jalsha Movies HD | Kolkata Bangla | https://png.pngitem.com/pimgs/s/520-5200384_jalsha-movies-live-tv-hd-png-download.png | https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 
 # Zee Bangla Sonar | Kolkata Bangla | https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
@@ -91,5 +91,4 @@ A Sports | Sports | https://a-sports.tv/assets/img/logo/favicon.png | https://tv
 
 Star Sports 2 HD | Sports | https://i.postimg.cc/2yhw5M0c/20241005-170916.png | https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
-Sony Sports 1 | Sports | https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png | https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
-
+Sony Sports 5 | Sports | https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png | https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
