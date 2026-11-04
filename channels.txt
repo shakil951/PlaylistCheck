@@ -216,7 +216,6 @@ Zee news| General | https://imgur.com/79g2kMA.png?ref=skym3u.dev | https://dt3lr
 Zee Bangla Chinena| General | https://alixbd.com/assets/images/zeebangla.png | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
 Zee Bangla HD| General | https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png | https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 Sony AATH| General | https://assets-prod.services.toffeelive.com/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png | https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8#skym3u.dev
-Sony AATH [PAID]| General | https://assets-prod.services.toffeelive.com/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png | https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 Sony SAB HD| General | https://i.postimg.cc/Gpz6FLrP/20240823_023114.png | http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6571/index.m3u8
 Sony Aath| General | https://assets-prod.services.toffeelive.com/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png | http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6641/index.m3u8
 SONY MAX 2| General | https://alixbd.com/assets/images/sonymax2.png | http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6625/index.m3u8
@@ -246,7 +245,6 @@ DD Sports 2.0| General | https://tinyurl.com/mr2dec8v | https://d3qs3d2rkhfqrt.c
 DD Bangla| General | https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d | https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8#skym3u.dev#skym3u.dev
 DD Bharati| General | https://static.wikia.nocookie.net/logopedia/images/d/db/DD_Bharati_english.png | https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 DD National HD| General | https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png | https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-DD Bangla [PAID]| General | https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d | https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 DD News| General | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png | https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 DD Sports| General | https://tinyurl.com/mr2dec8v | https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 DD India| General | https://tinyurl.com/mr2dec8v | https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
@@ -292,7 +290,6 @@ NDTV (576p)| General | https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/
 NDTV India| General | https://imgur.com/79g2kMA.png?ref=skym3u.dev | https://vg-ndtvwatcho.akamaized.net/vglive-sk-834057/main.m3u8
 TV9 Bangla| General | https://s3.aynaott.com/storage/7b93f6be496c9fd25769b09970180c4c | https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8#skym3u.dev
 TV9 Bangla| General | https://s3.aynaott.com/storage/7b93f6be496c9fd25769b09970180c4c | https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8#skym3u.dev#skym3u.dev
-TV9 Bangla [PAID]| General | https://s3.aynaott.com/storage/7b93f6be496c9fd25769b09970180c4c | https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 TV9 (Slovakia)| General | https://i.imgur.com/Sco4x8t.png | https://dash4.antik.sk/live/test_tv9/playlist.m3u8
 TV9 Bharatvarsh (720p)| General | https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_BHARATVARSH/images/LOGO_HD/image.png | https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 TV9 Gujarati (720p)| General | https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_GUJARATI/images/LOGO_HD/image.png | https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
@@ -394,7 +391,6 @@ Peace TV Bangla| General | https://alixbd.com/assets/images/peacetvbangla.png | 
 Peace TV Bangla (1080p)| General | https://i.imgur.com/1ztVXUi.png | https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8?sid=Fr8MK5k_gEuQzjmojH7yRA#skym3u.dev
 ENTER10 BANGLA| General | https://tinyurl.com/mr2dec8v | https://live-bangla.akamaized.net/liveabr/playlist.m3u8#skym3u.dev#skym3u.dev
 Bangla Jago TV| General | https://alixbd.com/assets/images/andtv.png | http://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8#skym3u.dev#skym3u.dev
-Enter 10 Bangla [PAID]| General | https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1 | https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 Enter10 Bangla HD| General | https://tinyurl.com/mr2dec8v | https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 Bangla Jago (720p)| General | https://jiotvimages.cdn.jio.com/dare_images/images/Bangla_Jago.png | https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
 Khushboo Bangla (720p)| General | https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KHUSHBOO_BANGLA/images/LOGO_HD/image.png | https://cdn.pishow.tv/ott/live/1473/master.m3u8
@@ -567,9 +563,6 @@ Bein Sports xtra| General | https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png | https:/
 Deshe Bideshe| General | https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg | https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 ME TV| General | https://i.postimg.cc/9fq1Q4Hz/20240825_070144.png | https://iptvbd.live/metv1080/1080.m3u8
 Zoom| General | https://otapp.store/uploads/tv_image/sm/zoom.png | https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-Sports First TV [PAID]| General | https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3 | https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
-Test Live TV| General | https://alixbd.com/assets/images/andtv.png | https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-Wild TV [PAID]| General | https://alixbd.com/assets/images/andtv.png | https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 Wion [PAID]| General | https://s3.aynaott.com/storage/671cfb22f8d0362ae01403b6e748f2e2 | https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 World War TV [PAID]| General | https://alixbd.com/assets/images/andtv.png | https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 24 Hour Free Movies (720p)| General | https://tinyurl.com/mr2dec8v | https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
@@ -579,10 +572,8 @@ MyTime Movie Network (1080p)| General | https://tinyurl.com/mr2dec8v | https://a
 MyTime Movie Network (1080p)| General | https://tinyurl.com/mr2dec8v | https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 Argus News| General | https://tinyurl.com/mr2dec8v | https://stream.ottlive.co.in/argus/index.m3u8
 Rock TV| General | https://alixbd.com/assets/images/andtv.png | https://stream.ottlive.co.in/suriyantvtamil/index.m3u8
-3ABN Kids [PAID]| General | https://s3.aynaott.com/storage/76e36f75bf11c815a76c5622d627c814 | https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 Aljazeera News [PAID]| General | https://s3.aynaott.com/storage/5d707a103f48d8f9f1634f1b70e2ecdf | https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 Discover Pikstan [PAID]| General |  | https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-Goal TV [PAID]| General | https://i.imgur.com/zsj6tLX.jpeg | https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 Oman Sports TV HD| General | https://assets-prod.services.toffeelive.com/5cwRnZUBtpl-Sbt7wWrN/posters/5779ade3-e9ba-4107-b3da-bae6f891500a.png | https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 Sky News Weather [PAID]| General | https://s3.aynaott.com/storage/69d8281f965475f3293a3e30de8c0ccb | https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 Sananda Tv| General | https://i.postimg.cc/Kc7BJRCy/20240823-020704.png | http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
