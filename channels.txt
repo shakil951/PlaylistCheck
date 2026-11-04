@@ -94,6 +94,7 @@ kolkata TV| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9
 Sony AATH| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg | https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 TV9 Bangla| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg | https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 Zee Bangla Sonar| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/1388170186b34ba8e86eb48111d369d8.jpg | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+Colors Bangla HD| Entertainment | https://i.postimg.cc/3w6F5VZ5/20240822-231514.png | https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8
 
 # ==========================================
 #                   TEST
@@ -144,57 +145,3 @@ Sports Fishing TV| Sports | https://s3.aynaott.com/storage/52e9f8f5c78d59a205f0d
 Talk Sport| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/e190f393ddda707426d58a0f295bd7cd.jpg | https://tvsen6.aynaott.com/talkSPORT/index.m3u8
 TNT Sport 1| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg | https://tvsen5.aynaott.com/asdfadsf/index.m3u8
 Xtrem Sports| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_e38c97217aa2b9b08475963910ec7e53_playmist_xtrem_sports400x400.png | https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-
-# ==========================================
-#                   CHECKING
-# ==========================================
-
-
-Orange Bangla TV (720p)| Entertainment | https://i.imgur.com/wjSaHj5.png | https://cdn.pishow.tv/ott/live/1499/master.m3u8
-Movie Bangla| Movies | https://alixbd.com/assets/images/moviebanglatv.png | http://alvetv.com/moviebanglatv/8080/index.m3u8#skym3u.dev
-Bangla Plus| Entertainment | https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png | https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-Star Sports Select 1 HD| Sports | https://tinyurl.com/mr2dec8v | http://ytoxw6un.ottclub.xyz/iptv/4Y6LU8DSU8G6ZLB5PXKD5HRC/2508/index.m3u8#skym3u.dev#skym3u.dev
-Zee 24 Ghanta| News | https://i.postimg.cc/D0KSP0qB/Zee-24-Ghanta-2025-Logo-2025.webp | https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8#skym3u.dev
-ZEE BUSINESS| Business | https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Business_%282025%29.svg | https://dwby15d04agvq.cloudfront.net/index_1.m3u8#skym3u.dev#skym3u.dev
-Zee Bangla HD| Entertainment | https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png | https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-Sony AATH| Entertainment | https://assets-prod.services.toffeelive.com/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png | https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8#skym3u.dev
-SONY MAX 2| Movies | https://alixbd.com/assets/images/sonymax2.png | http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6625/index.m3u8
-Colors Bangla HD| Entertainment | https://i.postimg.cc/3w6F5VZ5/20240822-231514.png | https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8
-Republic TV| News | https://alixbd.com/assets/images/andtv.png | https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
-Sun Music| Music | https://imgur.com/79g2kMA.png?ref=skym3u.dev?ref=skym3u.dev?ref=skym3u.dev | https://hls.sunmusic.live/hls/stream.m3u8
-Aaj Tak| News | https://tinyurl.com/mr2dec8v | https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8#skym3u.dev
-NDTV INDIA| News | https://tinyurl.com/mr2dec8v | https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/32abd651-2f9b-4c62-b662-b03dd2ee748e/main.m3u8#skym3u.dev
-TV9 Bangla| News | https://s3.aynaott.com/storage/7b93f6be496c9fd25769b09970180c4c | https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8#skym3u.dev
-ABP Ananda (1080p)| News | https://dtil.tmsimg.com/assets/s142518_ld_h15_aa.png?lock=720x540 | https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
-ABP News (1080p)| News | https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540 | https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-CNBC UK (1080p)| Business | https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png | https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-B4U Music (1080p)| Music | https://i.postimg.cc/0N2VWksB/channels4-profile.jpg | https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
-B4U Movies| Movies | https://otapp.store/uploads/tv_image/sm/b4u-movies.png | https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
-Zing| Music | https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/DK8dd5YBrjBfS2_Ru22e/posters/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.png | http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6589/index.m3u8
-MTV| Music | https://s3.aynaott.com/storage/c0bfcdb40393eb5824907adaaa63a653 | https://ma.anixa.tv/clips/stream/mtv/playlist.php
-Cartoon Network HD| Kids | https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png | https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-Animal Planet HD| Documentary | https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png | https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-Kolkata TV| News | https://s3.aynaott.com/storage/c355110e9cbebd89649a95f0f0fd77da | https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d4017753-7155-4cee-8755-10f1b3eb6d77/index.m3u8#skym3u.dev
-Peace TV Bangla| Islamic | https://alixbd.com/assets/images/peacetvbangla.png | https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=2eiaQvIDbEqyplcyhE9mbQ#skym3u.dev
-ENTER10 BANGLA| Entertainment | https://tinyurl.com/mr2dec8v | https://live-bangla.akamaized.net/liveabr/playlist.m3u8#skym3u.dev#skym3u.dev
-Madani Channel Bangla (1080p)| Islamic | https://alixbd.com/assets/images/madanichannel.png | https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-Sangeet Bangla (720p)| Music | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png | https://cdn.pishow.tv/ott/live/1143/master.m3u8
-U Bangla (1080p)| Entertainment | https://jiotvimages.cdn.jio.com/dare_images/images/U_Bangla.png | https://stream.ottlive.co.in/ubangla/index.m3u8
-Wion| News | https://s3.aynaott.com/storage/671cfb22f8d0362ae01403b6e748f2e2 | https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8#skym3u.dev
-Doraemon TV| Kids | https://alixbd.com/assets/images/doraemon.png | https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8#skym3u.dev
-Tom & Jerry TV| Kids | https://alixbd.com/assets/images/tomjerry.png | https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8#skym3u.dev
-Bengali Beats| Music | https://i.postimg.cc/jSLNzXgM/Bengali-Beats.png | https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8#skym3u.dev
-Aljazeera News| News | https://s3.aynaott.com/storage/5d707a103f48d8f9f1634f1b70e2ecdf | https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8#skym3u.dev
-Madani Channel Urdu (720p)| Islamic | https://alixbd.com/assets/images/madanichannel.png | https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8#skym3u.dev
-Peace TV Urdu (1080p)| Islamic | https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg | https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8?sid=HF0kNLdhB0ijuKn_FjOKvA#skym3u.dev
-Iqraa TV| Islamic | https://i.postimg.cc/gcHKBtjy/20260524-023828.png | https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8#skym3u.dev
-SKY SPORTS CRICKET| Sports | https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png | http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8#skym3u.dev#skym3u.dev
-SKY SPORTS F1| Sports | https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png | http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/7342/index.m3u8#skym3u.dev#skym3u.dev
-SKY SPORTS EPL| Sports | https://tinyurl.com/mr2dec8v | http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8#skym3u.dev#skym3u.dev
-beIN SPORTS 1 HD| Sports | https://i.postimg.cc/441hHtgZ/20250120_193746.png | http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6123/index.m3u8#skym3u.dev#skym3u.dev
-Football World Cup 2026 (4K)| Sports | https://tinyurl.com/mr2dec8v | http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8#skym3u.dev#skym3u.dev
-CNA News| News | https://tinyurl.com/mr2dec8v | https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#skym3u.dev#skym3u.dev
-CGTN News| News | https://tinyurl.com/mr2dec8v | https://english-livebkali.cgtn.com/live/encgtn_1.m3u8#skym3u.dev#skym3u.dev
-Fox News| News | https://tinyurl.com/mr2dec8v | https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8#skym3u.dev#skym3u.dev
-Quran| Islamic |  | https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
-SUNNAH| Islamic |  | https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
