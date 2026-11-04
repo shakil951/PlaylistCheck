@@ -63,8 +63,6 @@ Bangla Vision | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-
 
 Bijoy TV | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82c9c8c5aa07c6b94a62cf2ffbe21375_playmist_bijoy_tv_400x400.jpg | https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 
-G Series Drama | Bangla Entertainment | https://i.postimg.cc/xTxpr24R/1000114119.jpg | https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-
 Maasranga TV | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9a9da509523ff5fa2e65e262fe3d0125_playmist_maasranga_tv_400x400.jpg | https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
 SRK TV | Bangla Entertainment | https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png | https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
@@ -78,7 +76,7 @@ Iqra Bangla| Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5
 MADANI TV| Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_b8b896039b6eb685a11aab0b7b4a33d3_playmist_madani_tv_400x400.jpg | https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 NTV Europe| Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_7eb39c04f7cf7ab782e6324c484d93e5_playmist_ntv_europe_400x400.jpg | https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 Islam TV| Religious | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bf2a332556cb4c5da9861e7b981aac1d_playmist_islam.jpg | https://tvsen1.aynaott.com/bB3A5dyq/index.m3u8
-Dipto Tv | Live TV | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-05/thumbnails_e7c232fc971625f04bb5f1c464a92159_playmist_live_tv_placeholder.png | https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+Dipto Tv | Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-05/thumbnails_e7c232fc971625f04bb5f1c464a92159_playmist_live_tv_placeholder.png | https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 # ==========================================
 #                 KOLKATA BANGLA
@@ -93,10 +91,32 @@ DD Bangla| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e
 Enter 10 Bangla| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_fc0d1242765efd4c1494fbfe4ff65c7a_playmist_enter_10_bangla400x400.jpg | https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 Khushboo| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1544964341f4ed337430057b9634b1ad_playmist_khushboo_400x400.jpg | https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
 kolkata TV| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_067234e427ca902620258631b762cea8_playmist_kolkata_tv_400x400.jpg | https://tvsen6.aynaott.com/kolkatatv/index.m3u8
-Network 10| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_35e8912e73d3759eb0f9e21a815d1a80_playmist_network_10_400x400.jpg | https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8
 Sony AATH| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg | https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 TV9 Bangla| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg | https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 Zee Bangla Sonar| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/1388170186b34ba8e86eb48111d369d8.jpg | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+
+# ==========================================
+#                   TEST
+# ==========================================
+
+Adventure Earth| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_535399f1d6f11a7f9e501b4db33e2d0c_playmist_adventure_earth.jpg | https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+AMC TV| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_3b1761944f03a54be03d4bf535241e41_playmist_amc_500x296.jpg | https://tvsen6.aynaott.com/amc/index.m3u8
+Animal Planet HD| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_a49ebd8c1eabd8e7cc20297a0fda92f5_playmist_animal_planet_hd_400x400.jpg | https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8
+COOKING TV| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_f5344290cda1e9555c30db58c4e3d00e_playmist_cooking_tv_400x400.jpg | https://tvsen3.aynaott.com/s2FwmdbM/index.m3u8
+Discovery HD| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e6222cfb0e0f7e22736f3496cc98a897_playmist_discovery_hd_400x400.jpg | https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
+Discovery Turbo| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_fc6169a315d90d5bdd68fdfe4e35d2c1_playmist_discovery_turbo_400x400.jpg | https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8
+Food Network| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7965b8693481f770bcd710f96cc6ea47_playmist_food_network_400x400.jpg | https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8
+HBO 2| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2e95a01c1a6b96b71670420cfd9d8cbc_playmist_hbo_2400x400.jpg | https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
+HGTV| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e727287c291ebe1268550825f531f57c_playmist_hgtv_400x400.jpg | https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8
+Travel Channel| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_053d8306bf2a107696349e9a93083e6b_playmist_travel_channel_400x400.jpg | https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8
+Travel XP| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5196b31badd89d9bba61ff57c49fb73b_playmist_travel_xp400x400.jpg | https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+Wild TV| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aa21af3895b9d45aab5b8b41517ad1f7_playmist_wild_tv.jpg | https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+3ABN Kids| Kids | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_42d248089af768d78ab12e716c674e77_playmist_3abn_kids.jpg | https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+Dios Te Ve Kids| Kids | https://s3.aynaott.com/storage/dc654c62fa2f2cd754894ebc9353da9c | https://s.emisoras.tv:8081/diostevekids/index.m3u8
+Discovery Family| Kids | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_2df08c319ac7e461f3544ff1e9f5bfae_playmist_discovery_family_400x400.jpg | https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
+Moonbug Kids| Kids | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_4be00646d9e8f7a973d43b52166407ff_playmist_moonbug_kids400x400.jpg | https://moonbug-rokuus.amagi.tv/playlist.m3u8
+Deen TV| Religious | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_61c8b190119b0d1adbfde37c4b521043_playmist_deen_tv_400x400.jpg | https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8
+
 
 # ==========================================
 #                   SPORTS
@@ -124,26 +144,3 @@ Sports Fishing TV| Sports | https://s3.aynaott.com/storage/52e9f8f5c78d59a205f0d
 Talk Sport| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/e190f393ddda707426d58a0f295bd7cd.jpg | https://tvsen6.aynaott.com/talkSPORT/index.m3u8
 TNT Sport 1| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg | https://tvsen5.aynaott.com/asdfadsf/index.m3u8
 Xtrem Sports| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_e38c97217aa2b9b08475963910ec7e53_playmist_xtrem_sports400x400.png | https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-
-# ==========================================
-#                   TEST
-# ==========================================
-
-Adventure Earth| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_535399f1d6f11a7f9e501b4db33e2d0c_playmist_adventure_earth.jpg | https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
-AMC TV| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_3b1761944f03a54be03d4bf535241e41_playmist_amc_500x296.jpg | https://tvsen6.aynaott.com/amc/index.m3u8
-Animal Planet HD| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_a49ebd8c1eabd8e7cc20297a0fda92f5_playmist_animal_planet_hd_400x400.jpg | https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8
-COOKING TV| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_f5344290cda1e9555c30db58c4e3d00e_playmist_cooking_tv_400x400.jpg | https://tvsen3.aynaott.com/s2FwmdbM/index.m3u8
-Discovery HD| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e6222cfb0e0f7e22736f3496cc98a897_playmist_discovery_hd_400x400.jpg | https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
-Discovery Turbo| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_fc6169a315d90d5bdd68fdfe4e35d2c1_playmist_discovery_turbo_400x400.jpg | https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8
-Food Network| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7965b8693481f770bcd710f96cc6ea47_playmist_food_network_400x400.jpg | https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8
-HBO 2| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2e95a01c1a6b96b71670420cfd9d8cbc_playmist_hbo_2400x400.jpg | https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
-HGTV| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e727287c291ebe1268550825f531f57c_playmist_hgtv_400x400.jpg | https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8
-Travel Channel| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_053d8306bf2a107696349e9a93083e6b_playmist_travel_channel_400x400.jpg | https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8
-Travel XP| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5196b31badd89d9bba61ff57c49fb73b_playmist_travel_xp400x400.jpg | https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
-Wild TV| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aa21af3895b9d45aab5b8b41517ad1f7_playmist_wild_tv.jpg | https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-3ABN Kids| Kids | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_42d248089af768d78ab12e716c674e77_playmist_3abn_kids.jpg | https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-Dios Te Ve Kids| Kids | https://s3.aynaott.com/storage/dc654c62fa2f2cd754894ebc9353da9c | https://s.emisoras.tv:8081/diostevekids/index.m3u8
-Discovery Family| Kids | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_2df08c319ac7e461f3544ff1e9f5bfae_playmist_discovery_family_400x400.jpg | https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
-Moonbug Kids| Kids | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_4be00646d9e8f7a973d43b52166407ff_playmist_moonbug_kids400x400.jpg | https://moonbug-rokuus.amagi.tv/playlist.m3u8
-Deen TV| Religious | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_61c8b190119b0d1adbfde37c4b521043_playmist_deen_tv_400x400.jpg | https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8
-Discover Pikstan| Weather | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_efeb6a966b36ef807b0aa9bfd5229360_playmist_discover_pikstan.jpg | https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
