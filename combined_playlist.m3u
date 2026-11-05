@@ -1,6 +1,6 @@
 #EXTM3U
 # Developer: Farabi Ahmed Shakil
-# Last Update: 04-Nov-2026 09:43 AM
+# Last Update: 05-Nov-2026 04:25 AM
 # Total Channels: 77
 
 #EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Promo",Farabi TV
@@ -184,7 +184,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg" group-title="Sports",T Sports HD
-https://footfytv.pro/proxy/direct?url=http://103.16.24.4:8083/14.m3u8
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/favicon.png" group-title="Sports",A Sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
