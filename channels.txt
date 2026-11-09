@@ -85,7 +85,7 @@ Star Jalsa HD | Kolkata Bangla | https://raw.githubusercontent.com/shamimpipon/R
 
 Jalsha Movies HD | Kolkata Bangla | https://png.pngitem.com/pimgs/s/520-5200384_jalsha-movies-live-tv-hd-png-download.png | https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 
-# Zee Bangla Sonar | Kolkata Bangla | https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+# Zee Bangla Sonar | Kolkata Bangla | https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png | https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
 
 DD Bangla| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_9cd5e0424aa0759556a829aa36fd4121_playmist_dd_bangla400x400.jpg | https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 Enter 10 Bangla| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_fc0d1242765efd4c1494fbfe4ff65c7a_playmist_enter_10_bangla400x400.jpg | https://live-bangla.akamaized.net/liveabr/playlist.m3u8
