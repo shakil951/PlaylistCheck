@@ -45,7 +45,6 @@ Bangla TV | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c
 
 Mohona TV | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1c2c83a36e990c46964ce6ef25528d84_playmist_mohona_tv400x400.jpg | https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 
-NEXUS TV | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_7e6104384dddd36f39e1a27fe0a61059_playmist_nexus_tv_400x400.jpg | https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 
 # Global TV | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_e58bddfe000aa3e5df9f7c2e90416d90_playmist_global_tv_400x400.jpg | https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 
@@ -61,7 +60,6 @@ ATN Bangla | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107
 
 Bangla Vision | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg | https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8
 
-Bijoy TV | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82c9c8c5aa07c6b94a62cf2ffbe21375_playmist_bijoy_tv_400x400.jpg | https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 
 Maasranga TV | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9a9da509523ff5fa2e65e262fe3d0125_playmist_maasranga_tv_400x400.jpg | https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
@@ -89,11 +87,8 @@ Jalsha Movies HD | Kolkata Bangla | https://png.pngitem.com/pimgs/s/520-5200384_
 
 DD Bangla| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_9cd5e0424aa0759556a829aa36fd4121_playmist_dd_bangla400x400.jpg | https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 Enter 10 Bangla| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_fc0d1242765efd4c1494fbfe4ff65c7a_playmist_enter_10_bangla400x400.jpg | https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-Khushboo| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1544964341f4ed337430057b9634b1ad_playmist_khushboo_400x400.jpg | https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
 kolkata TV| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_067234e427ca902620258631b762cea8_playmist_kolkata_tv_400x400.jpg | https://tvsen6.aynaott.com/kolkatatv/index.m3u8
-Sony AATH| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg | https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 TV9 Bangla| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg | https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-Zee Bangla Sonar| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/1388170186b34ba8e86eb48111d369d8.jpg | https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 Colors Bangla HD| Entertainment | https://i.postimg.cc/3w6F5VZ5/20240822-231514.png | https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8
 
 # ==========================================
@@ -112,7 +107,6 @@ HGTV| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e
 Travel Channel| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_053d8306bf2a107696349e9a93083e6b_playmist_travel_channel_400x400.jpg | https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8
 Travel XP| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5196b31badd89d9bba61ff57c49fb73b_playmist_travel_xp400x400.jpg | https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 Wild TV| English | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aa21af3895b9d45aab5b8b41517ad1f7_playmist_wild_tv.jpg | https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-3ABN Kids| Kids | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_42d248089af768d78ab12e716c674e77_playmist_3abn_kids.jpg | https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 Dios Te Ve Kids| Kids | https://s3.aynaott.com/storage/dc654c62fa2f2cd754894ebc9353da9c | https://s.emisoras.tv:8081/diostevekids/index.m3u8
 Discovery Family| Kids | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_2df08c319ac7e461f3544ff1e9f5bfae_playmist_discovery_family_400x400.jpg | https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
 Moonbug Kids| Kids | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_4be00646d9e8f7a973d43b52166407ff_playmist_moonbug_kids400x400.jpg | https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -128,9 +122,7 @@ T Sports HD | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e
 
 A Sports | Sports | https://a-sports.tv/assets/img/logo/favicon.png | https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
-Star Sports 2 HD | Sports | https://i.postimg.cc/2yhw5M0c/20241005-170916.png | https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
-Sony Sports 5 | Sports | https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png | https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
 
 Bahrain Sports 1| Sports | https://s3.aynaott.com/storage/0ec8d8b83b191cf915316a1751c8787e | https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 Bahrain Sports 2| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_d0852f6f8708108efafbae1e1b32564f_playmist_bahrain_sports_1_400x400.jpg | https://tvsen6.aynaott.com/BahrainSports2/index.m3u8
