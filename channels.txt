@@ -31,6 +31,8 @@ NTV | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-
 
 BTV CTG | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/b994ae24dd627fb8b680e5cd654d1e9c.jpg | https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
+Nagorik Tv | Entertainment | https://i.imgur.com/2cpHJKq.png | https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
+
 RTV | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d6c5ece652161d2d88ed547f00343687_playmist_rtv_400x400.jpg | https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8
 
 # ETV | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0b5269c6ae6e8c382e43c2be02789c60_playmist_etv_400x400.jpg | https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
@@ -60,10 +62,11 @@ ATN Bangla | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107
 
 Bangla Vision | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg | https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8
 
-
+Me Tv | General | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk_1n5Uoqox8ej8hhdW_QapGYP3FqK3crkcHFmmYvd0qiuhTKcZaHpFb0O&s=10 | https://iptvbd.live/metv1080/1080.m3u8
 Maasranga TV | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9a9da509523ff5fa2e65e262fe3d0125_playmist_maasranga_tv_400x400.jpg | https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
 SRK TV | Bangla Entertainment | https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png | https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
 
 # NEWS 21 BANGLA | Bangla Entertainment | https://news21bangla.tv/wp-content/uploads/2025/07/Screenshot_23.png | http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
@@ -79,7 +82,7 @@ Dipto Tv | Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e523
 Star Jalsa HD | Kolkata Bangla | https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png | https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
 Jalsha Movies HD | Kolkata Bangla | https://png.pngitem.com/pimgs/s/520-5200384_jalsha-movies-live-tv-hd-png-download.png | https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
-
+ZEE Bangla | Entertainment | https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b1/Zee_Bangla_English_Int%27l_%282017%29.png | https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
 # Zee Bangla Sonar | Kolkata Bangla | https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png | https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
 
 DD Bangla| Indian Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_9cd5e0424aa0759556a829aa36fd4121_playmist_dd_bangla400x400.jpg | https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
@@ -112,6 +115,7 @@ A Sports | Sports | https://a-sports.tv/assets/img/logo/favicon.png | https://tv
 
 Willow Sports 2 | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-10-13/images_b682a582e7041a8083aa53cefbe9546e_playmist_willow_sports_2.jpg | https://tvsen7.aynaott.com/Sports1/index.m3u8
 
+Sony Sports 2 | Sports | https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png | https://livetv.shamon-cable.net:8443/Sony-sports-2/index.m3u8
 Bahrain Sports 1| Sports | https://s3.aynaott.com/storage/0ec8d8b83b191cf915316a1751c8787e | https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 Bahrain Sports 2| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_d0852f6f8708108efafbae1e1b32564f_playmist_bahrain_sports_1_400x400.jpg | https://tvsen6.aynaott.com/BahrainSports2/index.m3u8
 Cricket Gold| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg | https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
