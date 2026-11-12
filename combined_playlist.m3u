@@ -1,7 +1,7 @@
 #EXTM3U
 # Developer: Farabi Ahmed Shakil
-# Last Update: 12-Nov-2026 08:35 AM
-# Total Channels: 57
+# Last Update: 12-Nov-2026 08:41 AM
+# Total Channels: 58
 
 #EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Promo",Farabi TV
 https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/Person_creating_branding_video_1080p_20261012145302.mp4
@@ -134,6 +134,9 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/favicon.png" group-title="Sports",A Sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-10-13/images_b682a582e7041a8083aa53cefbe9546e_playmist_willow_sports_2.jpg" group-title="Sports",Willow Sports 2
+https://tvsen7.aynaott.com/Sports1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0ec8d8b83b191cf915316a1751c8787e" group-title="Sports",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
