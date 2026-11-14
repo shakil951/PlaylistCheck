@@ -113,13 +113,16 @@ T Sports HD Server 2 | Sports | https://web.aynaott.com/storage/019dd92f-107c-70
 
 T Sports HD Server 3 | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg | https://bdtop1.tvhunter.top/T-SPORTS-HD/index.m3u8
 
-# PTV Sports | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg | https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
+Ten Sports HD Pakistan | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg | https://live.msnetworks.net/ten-sports/master.m3u8
 
 A Sports | Sports | https://a-sports.tv/assets/img/logo/favicon.png | https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
 Willow Sports 2 | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-10-13/images_b682a582e7041a8083aa53cefbe9546e_playmist_willow_sports_2.jpg | https://tvsen7.aynaott.com/Sports1/index.m3u8
 
 Sony Sports 2 | Sports | https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png | https://livetv.shamon-cable.net:8443/Sony-sports-2/index.m3u8
+
+PTV Sports| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg | https://live.msnetworks.net/ptv-sports/master.m3u8
+
 Bahrain Sports 1| Sports | https://s3.aynaott.com/storage/0ec8d8b83b191cf915316a1751c8787e | https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 Bahrain Sports 2| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_d0852f6f8708108efafbae1e1b32564f_playmist_bahrain_sports_1_400x400.jpg | https://tvsen6.aynaott.com/BahrainSports2/index.m3u8
 Cricket Gold| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg | https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
@@ -127,7 +130,7 @@ FIFA+| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e
 Goal TV| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_db46edea3e5aae6a063369b686c1192d_playmist_goal_tv_400x400.jpg | https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 KTV Sport Plus| Sports | https://s3.aynaott.com/storage/44c0d062e5dda8b8a4f2e9933165cd91 | https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 Marquee Sports Network| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/d59971a29af79ba0f40aff4c18d29aae.jpg | https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
-PTV Sports| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg | https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8
+
 Sports First TV| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1e8f6268734530db4020f0af078ed8cb_playmist_sports_first400x400.jpg | https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 Sports Fishing TV| Sports | https://s3.aynaott.com/storage/52e9f8f5c78d59a205f0d2bd056d0869 | https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 Talk Sport| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/e190f393ddda707426d58a0f295bd7cd.jpg | https://tvsen6.aynaott.com/talkSPORT/index.m3u8
