@@ -113,6 +113,8 @@ T Sports HD Server 2 | Sports | https://web.aynaott.com/storage/019dd92f-107c-70
 
 T Sports HD Server 3 | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg | https://bdtop1.tvhunter.top/T-SPORTS-HD/index.m3u8
 
+Football SAFF Championship 2026 | Sports | https://tickify.live/_next/image?url=%2Fbundled%2Fdemo-events%2Fsaff-championship-banner.png&w=1920&q=75&dpl=09d1e31c2f568a69ac023b95dd50106590c245de | https://live05.wecile.app/live/87547578.m3u8
+
 Ten Sports HD Pakistan | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg | https://live.msnetworks.net/ten-sports/master.m3u8
 
 A Sports | Sports | https://a-sports.tv/assets/img/logo/favicon.png | https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
