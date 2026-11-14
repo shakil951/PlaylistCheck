@@ -1,6 +1,6 @@
 #EXTM3U
 # Developer: Farabi Ahmed Shakil
-# Last Update: 14-Nov-2026 09:19 AM
+# Last Update: 14-Nov-2026 02:36 PM
 # Total Channels: 66
 
 #EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Promo",Farabi TV
@@ -148,7 +148,7 @@ https://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH
 https://bdtop1.tvhunter.top/T-SPORTS-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tickify.live/_next/image?url=%2Fbundled%2Fdemo-events%2Fsaff-championship-banner.png&w=1920&q=75&dpl=09d1e31c2f568a69ac023b95dd50106590c245de" group-title="Sports",Football SAFF Championship 2026
-https://live05.wecile.app/live/87547578.m3u8
+https://live05.wecile.app/live/18812304.m3u8
 
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" group-title="Sports",Ten Sports HD Pakistan
 https://live.msnetworks.net/ten-sports/master.m3u8
