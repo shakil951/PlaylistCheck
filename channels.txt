@@ -71,7 +71,6 @@ SRK TV | Bangla Entertainment | https://tstatic.akash-go.com/cms-ui/images/custo
 
 Channel 52| Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg | https://tvsen6.aynaott.com/channel52/index.m3u8
 Drama 24| Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/30554e50000b538aef52a9181052af56.jpg | https://vods2.aynaott.com/gseriesDrama/index.m3u8
-Independent TV| Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d7df8a2523be6a1fc0c54ddafc046dc2_playmist_independent_400x400.jpg | https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
 Islam TV| Religious | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bf2a332556cb4c5da9861e7b981aac1d_playmist_islam.jpg | https://tvsen1.aynaott.com/bB3A5dyq/index.m3u8
 Dipto Tv | Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-05/thumbnails_e7c232fc971625f04bb5f1c464a92159_playmist_live_tv_placeholder.png | https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
@@ -109,16 +108,13 @@ Moonbug Kids| Kids | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e52
 # ==========================================
 T Sports HD | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg | https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 
-Star Sports 2 | Sports | https://i.postimg.cc/2yhw5M0c/20241005-170916.png | https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 Ten Sports HD Pakistan | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg | https://live.msnetworks.net/ten-sports/master.m3u8
 
 A Sports | Sports | https://a-sports.tv/assets/img/logo/favicon.png | https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
-Sony Sports 2 | Sports | https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png | https://livetv.shamon-cable.net:8443/Sony-sports-2/index.m3u8
 
 Bahrain Sports 1| Sports | https://s3.aynaott.com/storage/0ec8d8b83b191cf915316a1751c8787e | https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-Bahrain Sports 2| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_d0852f6f8708108efafbae1e1b32564f_playmist_bahrain_sports_1_400x400.jpg | https://tvsen6.aynaott.com/BahrainSports2/index.m3u8
 Cricket Gold| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg | https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 FIFA+| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/bcc9699c8a3c8faf509c92e9280e576f.jpg | https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
 Goal TV| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_db46edea3e5aae6a063369b686c1192d_playmist_goal_tv_400x400.jpg | https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
