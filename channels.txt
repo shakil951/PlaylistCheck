@@ -25,7 +25,7 @@ Channel I | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c
 
 NTV | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_73ae9b4f27a23375a0308a3b222ee649_playmist_ntv_400x400.jpg | https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
-# BTV NATIONAL HD | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/84c7f041c86c63b9acc2df8762b2935b.jpg | https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
+BTV NATIONAL HD | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/84c7f041c86c63b9acc2df8762b2935b.jpg | https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8
 
 # BTV World | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9ea3bc79ad1fad76ae1ef2e1dd3c1b42_playmist_btv_world_400x400.jpg | https://tvsen6.aynaott.com/AQLYTPfXtjm5x7zj7AsM/index.m3u8
 
