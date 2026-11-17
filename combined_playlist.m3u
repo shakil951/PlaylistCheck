@@ -1,6 +1,6 @@
 #EXTM3U
 # Developer: Farabi Ahmed Shakil
-# Last Update: 17-Nov-2026 03:03 PM
+# Last Update: 17-Nov-2026 03:05 PM
 # Total Channels: 119
 
 #EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Promo",Farabi TV
@@ -315,7 +315,7 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg" group-title="Sports",T Sports HD
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" group-title="Sports",Ten Sports HD Pakistan
+#EXTINF:-1 tvg-logo="https://robitv.com/lpassets/img/tvlogo/tvpng/ten_sports.png" group-title="Sports",Ten Sports HD Pakistan
 https://live.msnetworks.net/ten-sports/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/favicon.png" group-title="Sports",A Sports
