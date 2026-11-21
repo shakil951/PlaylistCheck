@@ -8,14 +8,14 @@ Asian TV | Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e523
 ATN Bangla | Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_4ff2f8e87d71747b70ab273686c9df9a_playmist_atn_bangla_400x400.jpg | https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 ATN News | Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c788f2e0bc6f83a4fdde6022843368a_playmist_atn_news_400x400.jpg | https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 
-BTV NATIONAL HD | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/84c7f041c86c63b9acc2df8762b2935b.jpg | https://nkafmbewiff.gpcdn.net/tile_2/360p.m3u8
+BTV NATIONAL HD | Bangla Entertainment | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/84c7f041c86c63b9acc2df8762b2935b.jpg | https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 BTV CTG | Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/0cff8323fa888ccb69dde38a6880f150.jpg | https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
 Bangla TV | Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8fd7517559098b744a0595d094228d8d_playmist_bangla_tv_400x400.jpg | https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 Bangla Vision | Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg | https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 Bijoy TV | Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82c9c8c5aa07c6b94a62cf2ffbe21375_playmist_bijoy_tv_400x400.jpg | https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 Boishakhi TV | Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8a69251df11b66c4e85e7a2fe6d89286_playmist_boishakhi_tv_400x400.jpg | https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-
+GAZI TV HD | Bangla | https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp | https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 
 Channel 52 | Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg | https://tvsen6.aynaott.com/channel52/index.m3u8
 Channel 9 | Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0f3afa480f77dd7d97d49b449a05f3fa_playmist_channel_9_400x400.jpg | https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8
@@ -54,6 +54,7 @@ Star Jalsa HD Server 2| Kolkata Bangla | https://raw.githubusercontent.com/shami
 
 Jalsha Movies HD | Kolkata Bangla | https://png.pngitem.com/pimgs/s/520-5200384_jalsha-movies-live-tv-hd-png-download.png | https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 ZEE Bangla | Entertainment | https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b1/Zee_Bangla_English_Int%27l_%282017%29.png | https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
+
 # Zee Bangla Sonar | Kolkata Bangla | https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png | https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
 
 DD Bangla| Kolkata Bangla | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_9cd5e0424aa0759556a829aa36fd4121_playmist_dd_bangla400x400.jpg | https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
@@ -131,6 +132,13 @@ Ten Sports HD Pakistan | Sports | https://robitv.com/lpassets/img/tvlogo/tvpng/t
 A Sports | Sports | https://a-sports.tv/assets/img/logo/favicon.png | https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 Oman Sports TV HD | Live TV | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-09/images_db7e2ba86e75cc789ccffacd59521127_playmist_oman_sports_tv_hd400x400.jpg | https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
+Bein Sports Extra 2 | Sports | https://live.indiansserials.com/img/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvNDQxaEh0Z1ovMjAyNTAxMjBfMTkzNzQ2LnBuZw | https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+beIN SPORTS XTRA | Sports | https://live.indiansserials.com/img/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvNDQxaEh0Z1ovMjAyNTAxMjBfMTkzNzQ2LnBuZw | https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+Live(FOOTBALL) | Sports | https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp | https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+Fox Cricket | Sports | https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp | https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 
 Bahrain Sports 1 | Sports | https://s3.aynaott.com/storage/0ec8d8b83b191cf915316a1751c8787e | https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 Bahrain Sports 2 | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_d0852f6f8708108efafbae1e1b32564f_playmist_bahrain_sports_1_400x400.jpg | https://tvsen6.aynaott.com/BahrainSports2/index.m3u8
