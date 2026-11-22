@@ -1,7 +1,7 @@
 #EXTM3U
 # Developer: Farabi Ahmed Shakil
-# Last Update: 21-Nov-2026 06:37 AM
-# Total Channels: 109
+# Last Update: 22-Nov-2026 03:01 PM
+# Total Channels: 113
 
 #EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Promo",Farabi TV
 https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/Person_creating_branding_video_1080p_20261012145302.mp4
@@ -123,8 +123,14 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png" group-title="Kolkata Bangla",Star Jalsa HD Server 2
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png" group-title="Kolkata Bangla",Star Jalsa HD Server 3
+https://cricbuzz.zibobdixserver.top/STAR_JALSHA_TATA/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/520-5200384_jalsha-movies-live-tv-hd-png-download.png" group-title="Kolkata Bangla",Jalsha Movies HD
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/520-5200384_jalsha-movies-live-tv-hd-png-download.png" group-title="Kolkata Bangla",Jalsha Movies HD Server 2
+https://cricbuzz.zibobdixserver.top/JALSHA_TATA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b1/Zee_Bangla_English_Int%27l_%282017%29.png" group-title="Entertainment",ZEE Bangla
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
@@ -285,14 +291,20 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-09/images_db7e2ba86e75cc789ccffacd59521127_playmist_oman_sports_tv_hd400x400.jpg" group-title="Live TV",Oman Sports TV HD
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.indiansserials.com/img/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvNDQxaEh0Z1ovMjAyNTAxMjBfMTkzNzQ2LnBuZw" group-title="Sports",Bein Sports Extra 2
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.indiansserials.com/img/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvNDQxaEh0Z1ovMjAyNTAxMjBfMTkzNzQ2LnBuZw" group-title="Sports",Bein Sports 1
+https://edge22.358598.ir.cdn.ir/hls2/bein1.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.indiansserials.com/img/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvNDQxaEh0Z1ovMjAyNTAxMjBfMTkzNzQ2LnBuZw" group-title="Sports",beIN SPORTS XTRA
+#EXTINF:-1 tvg-logo="https://live.indiansserials.com/img/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvNDQxaEh0Z1ovMjAyNTAxMjBfMTkzNzQ2LnBuZw" group-title="Sports",beIN SPORTS XTRA 2
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Sports",Live(FOOTBALL)
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Sports",Live FOOTBALL
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Sports",Willow TV
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Sports",Willow 2
+https://tvsen7.aynaott.com/Sports1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Sports",Fox Cricket
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
