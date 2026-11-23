@@ -155,6 +155,7 @@ Wion | News | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51
 # ==========================================
 
 T Sports HD | Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg | https://playztv-apps.pages.dev/ptv-sports/index.m3u8
+T Sports HD Backup| Sports | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg | https://tvsen5.aynaott.com/TnMn5kZz8/index.m3u8
 
 Ten Sports HD Pakistan | Sports | https://robitv.com/lpassets/img/tvlogo/tvpng/ten_sports.png | https://live.msnetworks.net/ten-sports/master.m3u8
 Ten Cricket HD | Sports | https://6rgfinyqha.gpcdn.net/uploads/images/2025/11/03/images_90286f0acbbf34b9a810a209e51ee440_goplay_thumbnail.jpg?w=256 | https://drk6xq0vhn.gpcdn.net/hls/ten_cricket_hd_720/index.m3u8
@@ -165,12 +166,11 @@ Bein Sports 1 | Sports | https://live.indiansserials.com/img/aHR0cHM6Ly9pLnBvc3R
 
 beIN SPORTS XTRA 2 | Sports | https://live.indiansserials.com/img/aHR0cHM6Ly9pLnBvc3RpbWcuY2MvNDQxaEh0Z1ovMjAyNTAxMjBfMTkzNzQ2LnBuZw | https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-ge FOOTBALL | Sports | https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp | https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-
+RM TV | Sports | https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp | https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+ge TV | Sports | https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp | https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8
 Willow TV | Sports | https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp | https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 
 Willow 2 | Sports | https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp | https://tvsen7.aynaott.com/Sports1/index.m3u8
-
 
 Fox Cricket | Sports | https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp | https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 
