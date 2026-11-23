@@ -1,7 +1,7 @@
 #EXTM3U
 # Developer: Farabi Ahmed Shakil
-# Last Update: 23-Nov-2026 12:31 PM
-# Total Channels: 113
+# Last Update: 23-Nov-2026 12:39 PM
+# Total Channels: 186
 
 #EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Promo",Farabi TV
 https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/Person_creating_branding_video_1080p_20261012145302.mp4
@@ -341,4 +341,223 @@ https://tvsen5.aynaott.com/asdfadsf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_e38c97217aa2b9b08475963910ec7e53_playmist_xtrem_sports400x400.png" group-title="Sports",Xtrem Sports
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Sports",Ten Cricket HD
+https://drk6xq0vhn.gpcdn.net/hls/ten_cricket_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Sports",Sony Sports Ten 5 HD
+https://drk6xq0vhn.gpcdn.net/hls/sony_sports_ten_5_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Sports",Sony Sports Ten 2 HD
+https://drk6xq0vhn.gpcdn.net/hls/sony_sports_ten_2_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Sports",Sony Sports Ten 1 HD
+https://drk6xq0vhn.gpcdn.net/hls/sony_sports_ten_1_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Sports",Euro Sport HD
+https://drk6xq0vhn.gpcdn.net/hls/euro_sport_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Star News HD
+https://drk6xq0vhn.gpcdn.net/hls/star_news_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Islamic TV
+https://drk6xq0vhn.gpcdn.net/hls/islamic_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Channel 1 HD
+https://drk6xq0vhn.gpcdn.net/hls/channel_1_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Channel S HD
+https://drk6xq0vhn.gpcdn.net/hls/channel_s_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Rajdhani TV
+https://drk6xq0vhn.gpcdn.net/hls/rajdhani_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Jamuna TV
+https://drk6xq0vhn.gpcdn.net/hls/jamuna_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Channel 24
+https://drk6xq0vhn.gpcdn.net/hls/channel_24_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Nexus TV
+https://drk6xq0vhn.gpcdn.net/hls/nexus_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Mohona TV
+https://drk6xq0vhn.gpcdn.net/hls/mohona_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Global TV HD
+https://drk6xq0vhn.gpcdn.net/hls/global_tv_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Independent TV
+https://drk6xq0vhn.gpcdn.net/hls/independent_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Channel 9
+https://drk6xq0vhn.gpcdn.net/hls/channel_9_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Bijoy TV
+https://drk6xq0vhn.gpcdn.net/hls/bijoy_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Bangla TV HD
+https://drk6xq0vhn.gpcdn.net/hls/bangla_tv_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Bangladeshi",Asian TV
+https://drk6xq0vhn.gpcdn.net/hls/asian_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="News",KBS World
+https://drk6xq0vhn.gpcdn.net/hls/kbs_world_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="News",NHK World
+https://drk6xq0vhn.gpcdn.net/hls/nhk_world_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="News",CNA
+https://drk6xq0vhn.gpcdn.net/hls/cna_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="News",CNN
+https://drk6xq0vhn.gpcdn.net/hls/cnn_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="News",France 24
+https://drk6xq0vhn.gpcdn.net/hls/france_24_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="News",Euro News
+https://drk6xq0vhn.gpcdn.net/hls/euro_news_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="News",CGTN
+https://drk6xq0vhn.gpcdn.net/hls/cgtn_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="News",TV5 Monde
+https://drk6xq0vhn.gpcdn.net/hls/tv5_monde_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="News",TRT World
+https://drk6xq0vhn.gpcdn.net/hls/trt_world_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="News",Russia Today
+https://drk6xq0vhn.gpcdn.net/hls/russia_today_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="News",DW TV ASIA
+https://drk6xq0vhn.gpcdn.net/hls/dw_tv_asia_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",RTR Planeta
+https://drk6xq0vhn.gpcdn.net/hls/rtr_planeta_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Zee Anmol
+https://drk6xq0vhn.gpcdn.net/hls/zee_anmol_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Zee Cafe HD
+https://drk6xq0vhn.gpcdn.net/hls/zee_cafe_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Zee Bangla
+https://drk6xq0vhn.gpcdn.net/hls/zee_bangla_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Sony Aath
+https://drk6xq0vhn.gpcdn.net/hls/sony_aath_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Sony SAB HD
+https://drk6xq0vhn.gpcdn.net/hls/sony_sab_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Sony Entertainment Television
+https://drk6xq0vhn.gpcdn.net/hls/sony_entertainment_television_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Zee TV
+https://drk6xq0vhn.gpcdn.net/hls/zee_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",And TV
+https://drk6xq0vhn.gpcdn.net/hls/and_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Hum TV
+https://drk6xq0vhn.gpcdn.net/hls/hum_tv_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Hum Sitarey
+https://drk6xq0vhn.gpcdn.net/hls/hum_sitarey_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Ifilm
+https://drk6xq0vhn.gpcdn.net/hls/ifilm_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Zing SD
+https://drk6xq0vhn.gpcdn.net/hls/zing_sd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Zee Action
+https://drk6xq0vhn.gpcdn.net/hls/zee_action_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Zee Bangla Sonar
+https://drk6xq0vhn.gpcdn.net/hls/zee_bangla_sonar_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Sony Max 2
+https://drk6xq0vhn.gpcdn.net/hls/sony_max_2_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Sony Pix HD
+https://drk6xq0vhn.gpcdn.net/hls/sony_pix_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Sony Max HD
+https://drk6xq0vhn.gpcdn.net/hls/sony_max_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Sony Max
+https://drk6xq0vhn.gpcdn.net/hls/sony_max_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",And Picture
+https://drk6xq0vhn.gpcdn.net/hls/and_picture_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Zee Cinema HD
+https://drk6xq0vhn.gpcdn.net/hls/zee_cinema_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Movie Bangla
+https://drk6xq0vhn.gpcdn.net/hls/movie_bangla_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",Lotus Macau
+https://drk6xq0vhn.gpcdn.net/hls/lotus_macau_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",B4u Music
+https://drk6xq0vhn.gpcdn.net/hls/b4u_music_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Entertainment",B4u Movies
+https://drk6xq0vhn.gpcdn.net/hls/b4u_movies_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Kids",Cartoon Network
+https://drk6xq0vhn.gpcdn.net/hls/cartoon_network_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Kids",Sony YaY
+https://drk6xq0vhn.gpcdn.net/hls/sony_yay_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Kids",Pogo
+https://drk6xq0vhn.gpcdn.net/hls/pogo_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Kids",Cartoon Network HD
+https://drk6xq0vhn.gpcdn.net/hls/cartoon_network_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Infotainment",Arirang World
+https://drk6xq0vhn.gpcdn.net/hls/arirang_world_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Infotainment",Animal Planet SD
+https://drk6xq0vhn.gpcdn.net/hls/animal_planet_sd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Infotainment",TLC SD
+https://drk6xq0vhn.gpcdn.net/hls/tlc_sd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Infotainment",Discovery SD
+https://drk6xq0vhn.gpcdn.net/hls/discovery_sd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Infotainment",Hum Masala
+https://drk6xq0vhn.gpcdn.net/hls/hum_masala_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Infotainment",Turbo India
+https://drk6xq0vhn.gpcdn.net/hls/turbo_india_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Infotainment",TLC HD
+https://drk6xq0vhn.gpcdn.net/hls/tlc_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Infotainment",ID HD
+https://drk6xq0vhn.gpcdn.net/hls/id_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Religious",Saudi Quran
+https://drk6xq0vhn.gpcdn.net/hls/saudi_quran_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Religious",Saudi Sunnah
+https://drk6xq0vhn.gpcdn.net/hls/saudi_sunnah_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Infotainment",Discovery Science
+https://drk6xq0vhn.gpcdn.net/hls/discovery_science_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Infotainment",Animal Planet HD
+https://drk6xq0vhn.gpcdn.net/hls/animal_planet_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Infotainment",Discovery HD
+https://drk6xq0vhn.gpcdn.net/hls/discovery_hd_720/index.m3u8
 
