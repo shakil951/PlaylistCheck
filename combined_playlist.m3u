@@ -1,7 +1,7 @@
 #EXTM3U
 # Developer: Farabi Ahmed Shakil
-# Last Update: 26-Nov-2026 06:41 AM
-# Total Channels: 110
+# Last Update: 26-Nov-2026 03:58 PM
+# Total Channels: 108
 
 #EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Promo",Farabi TV
 https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/Person_creating_branding_video_1080p_20261012145302.mp4
@@ -180,20 +180,11 @@ https://tvsen1.aynaott.com/bB3A5dyq/index.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bf2a332556cb4c5da9861e7b981aac1d_playmist_islam.jpg" group-title="Religious",Islamic TV
 https://drk6xq0vhn.gpcdn.net/hls/islamic_tv_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_61c8b190119b0d1adbfde37c4b521043_playmist_deen_tv_400x400.jpg" group-title="Religious",Deen TV
-https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png" group-title="Kolkata Bangla",Star Jalsa HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png" group-title="Kolkata Bangla",Star Jalsa HD Server 2
-https://cricbuzz.zibobdixserver.top/STAR_JALSHA_TATA/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/520-5200384_jalsha-movies-live-tv-hd-png-download.png" group-title="Kolkata Bangla",Jalsha Movies HD
 https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/520-5200384_jalsha-movies-live-tv-hd-png-download.png" group-title="Kolkata Bangla",Jalsha Movies HD Server 2
-https://cricbuzz.zibobdixserver.top/JALSHA_TATA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b1/Zee_Bangla_English_Int%27l_%282017%29.png" group-title="Entertainment",ZEE Bangla
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
@@ -260,6 +251,9 @@ https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_fbef127efb1f4148d2730e59a78a9662_playmist_tvcarib_kids_teens400x400.jpg" group-title="Kids",TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp" group-title="Kids",Disney Channel
+http://sm-monirul.top/@sm_iptv_bd/live.php?id=disney_channels&sm=.m3u8
 
 #EXTINF:-1 tvg-logo="https://6rgfinyqha.gpcdn.net/uploads/images/2025/10/29/images_3b88f22349b865a2cf2ed44751cf55c6_goplay_thumbnail1.jpg?w=256" group-title="Infotainment",TLC HD
 https://drk6xq0vhn.gpcdn.net/hls/tlc_hd_720/index.m3u8
