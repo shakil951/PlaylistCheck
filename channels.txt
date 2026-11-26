@@ -71,9 +71,8 @@ Deen TV | Religious | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5
 #                 KOLKATA BANGLA
 # ==========================================
 Star Jalsa HD | Kolkata Bangla | https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png | https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-Star Jalsa HD Server 2| Kolkata Bangla | https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png | https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
-Star Jalsa HD Server 3| Kolkata Bangla | https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png | https://cricbuzz.zibobdixserver.top/STAR_JALSHA_TATA/index.m3u8
+Star Jalsa HD Server 2| Kolkata Bangla | https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png | https://cricbuzz.zibobdixserver.top/STAR_JALSHA_TATA/index.m3u8
 
 Jalsha Movies HD | Kolkata Bangla | https://png.pngitem.com/pimgs/s/520-5200384_jalsha-movies-live-tv-hd-png-download.png | https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 Jalsha Movies HD Server 2| Kolkata Bangla | https://png.pngitem.com/pimgs/s/520-5200384_jalsha-movies-live-tv-hd-png-download.png | https://cricbuzz.zibobdixserver.top/JALSHA_TATA/index.m3u8
