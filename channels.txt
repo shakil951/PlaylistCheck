@@ -65,17 +65,17 @@ Saudi Quran | Religious | https://6rgfinyqha.gpcdn.net/uploads/images/2025/10/30
 Saudi Sunnah | Religious | https://6rgfinyqha.gpcdn.net/uploads/images/2025/10/30/images_d9be9362d7b43cd11700a2843563244a_goplay_thumbnail.jpg?w=640 | https://drk6xq0vhn.gpcdn.net/hls/saudi_sunnah_720/index.m3u8
 Islam TV | Religious | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bf2a332556cb4c5da9861e7b981aac1d_playmist_islam.jpg | https://tvsen1.aynaott.com/bB3A5dyq/index.m3u8
 Islamic TV | Religious | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bf2a332556cb4c5da9861e7b981aac1d_playmist_islam.jpg  | https://drk6xq0vhn.gpcdn.net/hls/islamic_tv_720/index.m3u8
-Deen TV | Religious | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_61c8b190119b0d1adbfde37c4b521043_playmist_deen_tv_400x400.jpg | https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8
+# Deen TV | Religious | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_61c8b190119b0d1adbfde37c4b521043_playmist_deen_tv_400x400.jpg | https://tvsen3.aynaott.com/TJcnZW3U/index.m3u8
 
 # ==========================================
 #                 KOLKATA BANGLA
 # ==========================================
 Star Jalsa HD | Kolkata Bangla | https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png | https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
-Star Jalsa HD Server 2| Kolkata Bangla | https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png | https://cricbuzz.zibobdixserver.top/STAR_JALSHA_TATA/index.m3u8
+# Star Jalsa HD Server 2| Kolkata Bangla | https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png | https://cricbuzz.zibobdixserver.top/STAR_JALSHA_TATA/index.m3u8
 
 Jalsha Movies HD | Kolkata Bangla | https://png.pngitem.com/pimgs/s/520-5200384_jalsha-movies-live-tv-hd-png-download.png | https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
-Jalsha Movies HD Server 2| Kolkata Bangla | https://png.pngitem.com/pimgs/s/520-5200384_jalsha-movies-live-tv-hd-png-download.png | https://cricbuzz.zibobdixserver.top/JALSHA_TATA/index.m3u8
+# Jalsha Movies HD Server 2| Kolkata Bangla | https://png.pngitem.com/pimgs/s/520-5200384_jalsha-movies-live-tv-hd-png-download.png | https://cricbuzz.zibobdixserver.top/JALSHA_TATA/index.m3u8
 ZEE Bangla | Entertainment | https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b1/Zee_Bangla_English_Int%27l_%282017%29.png | https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
 
 
@@ -110,6 +110,8 @@ Moonbug Kids | Kids | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5
 PBS Kids | Kids | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_ab1b8e6f265620cd2720adc23bd2ba0e_playmist_pbs_kids_400x400.jpg | https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 TVC Arabic Kids | Kids | https://s3.aynaott.com/storage/31957d5960d3a36d8f9ca4d5a56eee96 | https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8
 TVCARiB Kids & Teens | Kids | https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_fbef127efb1f4148d2730e59a78a9662_playmist_tvcarib_kids_teens400x400.jpg | https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
+
+Disney Channel | Kids | https://pub-524b20a447f8474c929050d2def3f09c.r2.dev/ic_logo_farabi.webp | http://sm-monirul.top/@sm_iptv_bd/live.php?id=disney_channels&sm=.m3u8
 
 TLC HD | Infotainment | https://6rgfinyqha.gpcdn.net/uploads/images/2025/10/29/images_3b88f22349b865a2cf2ed44751cf55c6_goplay_thumbnail1.jpg?w=256 | https://drk6xq0vhn.gpcdn.net/hls/tlc_hd_720/index.m3u8
 ID HD | Infotainment | https://6rgfinyqha.gpcdn.net/uploads/images/2025/10/29/images_de7eacf34a8a40b0b737867da00be2a9_goplay_thumbnails.jpg?w=256 | https://drk6xq0vhn.gpcdn.net/hls/id_hd_720/index.m3u8
